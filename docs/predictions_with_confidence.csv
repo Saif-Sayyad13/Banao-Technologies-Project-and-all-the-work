@@ -1,0 +1,2179 @@
+request_id,team,confidence,needs_triage
+SR510822,Repairs,0.961,False
+SR510823,Filters & Consumables,0.984,False
+SR510824,Repairs,0.997,False
+SR510825,Installs & Demo,0.799,False
+SR510826,Installs & Demo,0.997,False
+SR510827,Installs & Demo,0.982,False
+SR510828,Installs & Demo,0.994,False
+SR510829,Installs & Demo,0.996,False
+SR510830,Installs & Demo,0.951,False
+SR510831,Repairs,0.982,False
+SR510832,Filters & Consumables,0.981,False
+SR510833,Filters & Consumables,0.97,False
+SR510834,Installs & Demo,0.996,False
+SR510835,Repairs,0.972,False
+SR510836,Repairs,0.999,False
+SR510837,Billing,0.992,False
+SR510838,Product Advice,0.972,False
+SR510839,Product Advice,0.969,False
+SR510840,Repairs,0.963,False
+SR510841,Repairs,0.384,True
+SR510842,Product Advice,0.995,False
+SR510843,Installs & Demo,0.994,False
+SR510844,Billing,0.999,False
+SR510845,Product Advice,0.78,False
+SR510846,Repairs,0.99,False
+SR510847,Repairs,0.422,True
+SR510848,Repairs,0.968,False
+SR510849,Warranty Claims,0.848,False
+SR510850,Warranty Claims,0.455,True
+SR510851,Repairs,0.983,False
+SR510852,Warranty Claims,0.824,False
+SR510853,Installs & Demo,0.988,False
+SR510854,Warranty Claims,0.984,False
+SR510855,Installs & Demo,0.379,True
+SR510856,Filters & Consumables,0.931,False
+SR510857,Product Advice,0.947,False
+SR510858,Product Advice,0.238,True
+SR510859,Repairs,0.996,False
+SR510860,Repairs,0.995,False
+SR510861,Filters & Consumables,0.996,False
+SR510862,Repairs,0.687,False
+SR510863,Returns & Replacement,0.854,False
+SR510864,Filters & Consumables,0.91,False
+SR510865,Repairs,0.997,False
+SR510866,Installs & Demo,0.899,False
+SR510867,Warranty Claims,0.979,False
+SR510868,Filters & Consumables,0.705,False
+SR510869,Repairs,0.987,False
+SR510870,Filters & Consumables,0.713,False
+SR510871,Installs & Demo,0.951,False
+SR510872,Filters & Consumables,0.96,False
+SR510873,Returns & Replacement,0.986,False
+SR510874,Installs & Demo,0.936,False
+SR510875,Returns & Replacement,0.765,False
+SR510876,Billing,0.98,False
+SR510877,Returns & Replacement,0.985,False
+SR510878,Warranty Claims,0.992,False
+SR510879,Warranty Claims,0.32,True
+SR510880,Warranty Claims,0.692,False
+SR510881,Installs & Demo,0.994,False
+SR510882,Returns & Replacement,0.964,False
+SR510883,Billing,0.991,False
+SR510884,Installs & Demo,0.983,False
+SR510885,Billing,0.253,True
+SR510886,Repairs,0.878,False
+SR510887,Repairs,0.934,False
+SR510888,Repairs,0.997,False
+SR510889,Repairs,0.46,True
+SR510890,Repairs,0.783,False
+SR510891,Repairs,0.981,False
+SR510892,Repairs,0.994,False
+SR510893,Repairs,0.933,False
+SR510894,Billing,0.4,True
+SR510895,Billing,0.964,False
+SR510896,Installs & Demo,0.943,False
+SR510897,Warranty Claims,0.993,False
+SR510898,Returns & Replacement,0.208,True
+SR510899,Installs & Demo,0.991,False
+SR510900,Billing,0.981,False
+SR510901,Repairs,0.987,False
+SR510902,Warranty Claims,0.988,False
+SR510903,Installs & Demo,0.99,False
+SR510904,Filters & Consumables,0.281,True
+SR510905,Warranty Claims,0.991,False
+SR510906,Filters & Consumables,0.951,False
+SR510907,Billing,0.962,False
+SR510908,Filters & Consumables,0.928,False
+SR510909,Product Advice,0.987,False
+SR510910,Product Advice,0.976,False
+SR510911,Repairs,0.999,False
+SR510912,Repairs,0.994,False
+SR510913,Repairs,0.919,False
+SR510914,Repairs,0.99,False
+SR510915,Warranty Claims,0.514,True
+SR510916,Billing,0.854,False
+SR510917,Billing,0.93,False
+SR510918,Returns & Replacement,0.98,False
+SR510919,Repairs,0.992,False
+SR510920,Billing,0.955,False
+SR510921,Filters & Consumables,0.986,False
+SR510922,Installs & Demo,0.992,False
+SR510923,Product Advice,0.887,False
+SR510924,Installs & Demo,0.995,False
+SR510925,Filters & Consumables,0.971,False
+SR510926,Billing,0.565,True
+SR510927,Billing,0.98,False
+SR510928,Returns & Replacement,0.995,False
+SR510929,Returns & Replacement,0.995,False
+SR510930,Filters & Consumables,0.93,False
+SR510931,Returns & Replacement,0.241,True
+SR510932,Billing,0.704,False
+SR510933,Installs & Demo,0.997,False
+SR510934,Installs & Demo,0.978,False
+SR510935,Product Advice,0.816,False
+SR510936,Product Advice,0.985,False
+SR510937,Returns & Replacement,0.994,False
+SR510938,Warranty Claims,0.938,False
+SR510939,Installs & Demo,0.288,True
+SR510940,Warranty Claims,0.913,False
+SR510941,Returns & Replacement,0.997,False
+SR510942,Filters & Consumables,0.921,False
+SR510943,Filters & Consumables,0.93,False
+SR510944,Warranty Claims,0.99,False
+SR510945,Returns & Replacement,0.78,False
+SR510946,Installs & Demo,0.96,False
+SR510947,Returns & Replacement,0.987,False
+SR510948,Warranty Claims,0.986,False
+SR510949,Filters & Consumables,0.992,False
+SR510950,Warranty Claims,0.325,True
+SR510951,Product Advice,0.997,False
+SR510952,Billing,0.983,False
+SR510953,Warranty Claims,0.786,False
+SR510954,Installs & Demo,0.944,False
+SR510955,Repairs,0.978,False
+SR510956,Repairs,0.998,False
+SR510957,Returns & Replacement,0.99,False
+SR510958,Warranty Claims,0.99,False
+SR510959,Installs & Demo,0.935,False
+SR510960,Filters & Consumables,0.993,False
+SR510961,Installs & Demo,0.992,False
+SR510962,Billing,0.989,False
+SR510963,Repairs,0.974,False
+SR510964,Repairs,0.998,False
+SR510965,Product Advice,0.452,True
+SR510966,Repairs,0.997,False
+SR510967,Repairs,0.997,False
+SR510968,Filters & Consumables,0.984,False
+SR510969,Repairs,0.994,False
+SR510970,Filters & Consumables,0.233,True
+SR510971,Returns & Replacement,0.995,False
+SR510972,Installs & Demo,0.888,False
+SR510973,Installs & Demo,0.993,False
+SR510974,Returns & Replacement,0.532,True
+SR510975,Installs & Demo,0.33,True
+SR510976,Product Advice,0.806,False
+SR510977,Repairs,0.991,False
+SR510978,Returns & Replacement,0.988,False
+SR510979,Repairs,0.977,False
+SR510980,Repairs,0.651,False
+SR510981,Billing,0.666,False
+SR510982,Product Advice,0.984,False
+SR510983,Warranty Claims,0.896,False
+SR510984,Filters & Consumables,0.97,False
+SR510985,Returns & Replacement,0.283,True
+SR510986,Product Advice,0.792,False
+SR510987,Repairs,0.988,False
+SR510988,Repairs,0.927,False
+SR510989,Repairs,0.989,False
+SR510990,Returns & Replacement,0.988,False
+SR510991,Filters & Consumables,0.991,False
+SR510992,Installs & Demo,0.507,True
+SR510993,Returns & Replacement,0.973,False
+SR510994,Repairs,0.985,False
+SR510995,Product Advice,0.99,False
+SR510996,Installs & Demo,0.906,False
+SR510997,Installs & Demo,0.258,True
+SR510998,Returns & Replacement,0.989,False
+SR510999,Filters & Consumables,0.819,False
+SR511000,Installs & Demo,0.999,False
+SR511001,Installs & Demo,0.959,False
+SR511002,Warranty Claims,0.981,False
+SR511003,Product Advice,0.969,False
+SR511004,Billing,0.993,False
+SR511005,Repairs,0.993,False
+SR511006,Installs & Demo,0.425,True
+SR511007,Repairs,0.994,False
+SR511008,Repairs,0.979,False
+SR511009,Repairs,0.972,False
+SR511010,Returns & Replacement,0.254,True
+SR511011,Repairs,0.997,False
+SR511012,Warranty Claims,0.991,False
+SR511013,Repairs,0.98,False
+SR511014,Filters & Consumables,0.938,False
+SR511015,Installs & Demo,0.981,False
+SR511016,Billing,0.911,False
+SR511017,Repairs,0.999,False
+SR511018,Installs & Demo,0.997,False
+SR511019,Installs & Demo,0.998,False
+SR511020,Warranty Claims,0.975,False
+SR511021,Installs & Demo,0.986,False
+SR511022,Repairs,0.511,True
+SR511023,Billing,0.462,True
+SR511024,Installs & Demo,0.956,False
+SR511025,Returns & Replacement,0.994,False
+SR511026,Returns & Replacement,0.996,False
+SR511027,Product Advice,0.992,False
+SR511028,Billing,0.988,False
+SR511029,Repairs,0.994,False
+SR511030,Billing,0.961,False
+SR511031,Filters & Consumables,0.983,False
+SR511032,Installs & Demo,0.286,True
+SR511033,Installs & Demo,0.992,False
+SR511034,Product Advice,0.989,False
+SR511035,Returns & Replacement,0.765,False
+SR511036,Product Advice,0.338,True
+SR511037,Product Advice,0.439,True
+SR511038,Returns & Replacement,0.883,False
+SR511039,Installs & Demo,0.961,False
+SR511040,Repairs,0.699,False
+SR511041,Installs & Demo,0.974,False
+SR511042,Filters & Consumables,0.512,True
+SR511043,Warranty Claims,0.29,True
+SR511044,Repairs,0.987,False
+SR511045,Returns & Replacement,0.99,False
+SR511046,Repairs,0.984,False
+SR511047,Repairs,0.996,False
+SR511048,Installs & Demo,0.996,False
+SR511049,Filters & Consumables,0.912,False
+SR511050,Installs & Demo,0.911,False
+SR511051,Repairs,0.704,False
+SR511052,Repairs,0.987,False
+SR511053,Repairs,0.997,False
+SR511054,Product Advice,0.957,False
+SR511055,Installs & Demo,0.685,False
+SR511056,Product Advice,0.991,False
+SR511057,Repairs,0.862,False
+SR511058,Repairs,0.995,False
+SR511059,Product Advice,0.978,False
+SR511060,Repairs,0.997,False
+SR511061,Filters & Consumables,0.959,False
+SR511062,Billing,0.974,False
+SR511063,Repairs,0.955,False
+SR511064,Repairs,0.999,False
+SR511065,Installs & Demo,0.993,False
+SR511066,Warranty Claims,0.994,False
+SR511067,Repairs,0.981,False
+SR511068,Filters & Consumables,0.893,False
+SR511069,Product Advice,0.962,False
+SR511070,Repairs,0.996,False
+SR511071,Product Advice,0.982,False
+SR511072,Returns & Replacement,0.996,False
+SR511073,Returns & Replacement,0.993,False
+SR511074,Repairs,0.999,False
+SR511075,Repairs,0.952,False
+SR511076,Billing,0.968,False
+SR511077,Returns & Replacement,0.982,False
+SR511078,Filters & Consumables,0.97,False
+SR511079,Warranty Claims,0.996,False
+SR511080,Returns & Replacement,0.898,False
+SR511081,Product Advice,0.997,False
+SR511082,Returns & Replacement,0.858,False
+SR511083,Product Advice,0.352,True
+SR511084,Installs & Demo,0.985,False
+SR511085,Warranty Claims,0.728,False
+SR511086,Product Advice,0.635,False
+SR511087,Returns & Replacement,0.9,False
+SR511088,Product Advice,0.885,False
+SR511089,Product Advice,0.844,False
+SR511090,Warranty Claims,0.996,False
+SR511091,Installs & Demo,0.979,False
+SR511092,Installs & Demo,0.996,False
+SR511093,Filters & Consumables,0.974,False
+SR511094,Warranty Claims,0.983,False
+SR511095,Product Advice,0.99,False
+SR511096,Billing,0.994,False
+SR511097,Filters & Consumables,0.979,False
+SR511098,Product Advice,0.993,False
+SR511099,Returns & Replacement,0.972,False
+SR511100,Installs & Demo,0.662,False
+SR511101,Warranty Claims,0.993,False
+SR511102,Billing,0.791,False
+SR511103,Installs & Demo,0.992,False
+SR511104,Installs & Demo,0.352,True
+SR511105,Repairs,0.98,False
+SR511106,Filters & Consumables,0.981,False
+SR511107,Returns & Replacement,0.995,False
+SR511108,Filters & Consumables,0.981,False
+SR511109,Repairs,0.252,True
+SR511110,Billing,0.984,False
+SR511111,Filters & Consumables,0.96,False
+SR511112,Billing,0.978,False
+SR511113,Product Advice,0.99,False
+SR511114,Returns & Replacement,0.995,False
+SR511115,Product Advice,0.446,True
+SR511116,Warranty Claims,0.983,False
+SR511117,Repairs,0.985,False
+SR511118,Returns & Replacement,0.989,False
+SR511119,Repairs,0.968,False
+SR511120,Billing,0.99,False
+SR511121,Billing,0.981,False
+SR511122,Repairs,0.997,False
+SR511123,Repairs,0.998,False
+SR511124,Returns & Replacement,0.8,False
+SR511125,Product Advice,0.994,False
+SR511126,Returns & Replacement,0.948,False
+SR511127,Repairs,0.589,True
+SR511128,Repairs,0.996,False
+SR511129,Product Advice,0.996,False
+SR511130,Billing,0.923,False
+SR511131,Product Advice,0.994,False
+SR511132,Installs & Demo,0.696,False
+SR511133,Installs & Demo,0.96,False
+SR511134,Returns & Replacement,0.992,False
+SR511135,Repairs,0.247,True
+SR511136,Installs & Demo,0.985,False
+SR511137,Returns & Replacement,0.996,False
+SR511138,Installs & Demo,0.886,False
+SR511139,Installs & Demo,0.995,False
+SR511140,Billing,0.992,False
+SR511141,Repairs,0.999,False
+SR511142,Warranty Claims,0.339,True
+SR511143,Installs & Demo,0.988,False
+SR511144,Returns & Replacement,0.993,False
+SR511145,Returns & Replacement,0.985,False
+SR511146,Repairs,0.985,False
+SR511147,Product Advice,0.987,False
+SR511148,Warranty Claims,0.942,False
+SR511149,Product Advice,0.972,False
+SR511150,Filters & Consumables,0.548,True
+SR511151,Repairs,0.983,False
+SR511152,Billing,0.998,False
+SR511153,Installs & Demo,0.295,True
+SR511154,Filters & Consumables,0.839,False
+SR511155,Filters & Consumables,0.993,False
+SR511156,Installs & Demo,0.957,False
+SR511157,Warranty Claims,0.997,False
+SR511158,Installs & Demo,0.984,False
+SR511159,Warranty Claims,0.99,False
+SR511160,Returns & Replacement,0.991,False
+SR511161,Billing,0.984,False
+SR511162,Billing,0.99,False
+SR511163,Product Advice,0.436,True
+SR511164,Returns & Replacement,0.991,False
+SR511165,Installs & Demo,0.987,False
+SR511166,Installs & Demo,0.969,False
+SR511167,Billing,0.974,False
+SR511168,Installs & Demo,0.604,False
+SR511169,Returns & Replacement,0.999,False
+SR511170,Installs & Demo,0.335,True
+SR511171,Installs & Demo,0.996,False
+SR511172,Warranty Claims,0.986,False
+SR511173,Product Advice,0.99,False
+SR511174,Warranty Claims,0.41,True
+SR511175,Billing,0.967,False
+SR511176,Repairs,0.992,False
+SR511177,Returns & Replacement,0.915,False
+SR511178,Returns & Replacement,0.372,True
+SR511179,Billing,0.993,False
+SR511180,Billing,0.992,False
+SR511181,Billing,0.762,False
+SR511182,Product Advice,0.991,False
+SR511183,Warranty Claims,0.988,False
+SR511184,Returns & Replacement,0.987,False
+SR511185,Installs & Demo,0.357,True
+SR511186,Product Advice,0.894,False
+SR511187,Installs & Demo,0.37,True
+SR511188,Billing,0.994,False
+SR511189,Repairs,0.992,False
+SR511190,Filters & Consumables,0.946,False
+SR511191,Installs & Demo,0.996,False
+SR511192,Installs & Demo,0.988,False
+SR511193,Repairs,0.998,False
+SR511194,Repairs,0.965,False
+SR511195,Returns & Replacement,0.76,False
+SR511196,Billing,0.963,False
+SR511197,Billing,0.823,False
+SR511198,Returns & Replacement,0.244,True
+SR511199,Repairs,0.999,False
+SR511200,Returns & Replacement,0.987,False
+SR511201,Returns & Replacement,0.992,False
+SR511202,Repairs,0.937,False
+SR511203,Billing,0.99,False
+SR511204,Filters & Consumables,0.253,True
+SR511205,Repairs,0.993,False
+SR511206,Repairs,1.0,False
+SR511207,Product Advice,0.996,False
+SR511208,Warranty Claims,0.431,True
+SR511209,Repairs,0.422,True
+SR511210,Returns & Replacement,0.988,False
+SR511211,Filters & Consumables,0.978,False
+SR511212,Installs & Demo,0.973,False
+SR511213,Installs & Demo,0.983,False
+SR511214,Warranty Claims,0.262,True
+SR511215,Billing,0.996,False
+SR511216,Billing,0.903,False
+SR511217,Repairs,0.982,False
+SR511218,Billing,0.986,False
+SR511219,Billing,0.987,False
+SR511220,Warranty Claims,0.983,False
+SR511221,Returns & Replacement,0.998,False
+SR511222,Installs & Demo,0.988,False
+SR511223,Repairs,0.987,False
+SR511224,Repairs,0.986,False
+SR511225,Installs & Demo,0.989,False
+SR511226,Billing,0.603,False
+SR511227,Billing,0.999,False
+SR511228,Billing,0.991,False
+SR511229,Filters & Consumables,0.244,True
+SR511230,Installs & Demo,0.966,False
+SR511231,Repairs,0.353,True
+SR511232,Product Advice,0.976,False
+SR511233,Repairs,0.997,False
+SR511234,Filters & Consumables,0.968,False
+SR511235,Installs & Demo,0.997,False
+SR511236,Product Advice,0.969,False
+SR511237,Returns & Replacement,0.975,False
+SR511238,Filters & Consumables,0.965,False
+SR511239,Warranty Claims,0.973,False
+SR511240,Repairs,0.355,True
+SR511241,Billing,0.993,False
+SR511242,Returns & Replacement,0.988,False
+SR511243,Installs & Demo,0.984,False
+SR511244,Billing,0.992,False
+SR511245,Product Advice,0.985,False
+SR511246,Installs & Demo,0.962,False
+SR511247,Repairs,0.998,False
+SR511248,Product Advice,0.997,False
+SR511249,Returns & Replacement,0.983,False
+SR511250,Filters & Consumables,0.975,False
+SR511251,Returns & Replacement,0.274,True
+SR511252,Installs & Demo,0.973,False
+SR511253,Product Advice,0.954,False
+SR511254,Repairs,0.378,True
+SR511255,Billing,0.879,False
+SR511256,Repairs,0.998,False
+SR511257,Product Advice,0.977,False
+SR511258,Product Advice,0.993,False
+SR511259,Product Advice,0.993,False
+SR511260,Repairs,0.986,False
+SR511261,Filters & Consumables,0.392,True
+SR511262,Returns & Replacement,0.989,False
+SR511263,Repairs,0.985,False
+SR511264,Returns & Replacement,0.339,True
+SR511265,Product Advice,0.82,False
+SR511266,Returns & Replacement,0.99,False
+SR511267,Returns & Replacement,0.984,False
+SR511268,Billing,0.987,False
+SR511269,Returns & Replacement,0.993,False
+SR511270,Repairs,0.751,False
+SR511271,Filters & Consumables,0.985,False
+SR511272,Warranty Claims,0.978,False
+SR511273,Repairs,0.915,False
+SR511274,Product Advice,0.986,False
+SR511275,Product Advice,0.977,False
+SR511276,Returns & Replacement,0.981,False
+SR511277,Returns & Replacement,0.926,False
+SR511278,Returns & Replacement,0.996,False
+SR511279,Returns & Replacement,0.96,False
+SR511280,Warranty Claims,0.927,False
+SR511281,Installs & Demo,0.938,False
+SR511282,Repairs,0.915,False
+SR511283,Returns & Replacement,0.983,False
+SR511284,Returns & Replacement,0.991,False
+SR511285,Product Advice,0.979,False
+SR511286,Warranty Claims,0.911,False
+SR511287,Repairs,0.884,False
+SR511288,Billing,0.939,False
+SR511289,Product Advice,0.972,False
+SR511290,Repairs,0.999,False
+SR511291,Warranty Claims,0.998,False
+SR511292,Repairs,0.995,False
+SR511293,Billing,0.655,False
+SR511294,Billing,0.952,False
+SR511295,Returns & Replacement,0.909,False
+SR511296,Warranty Claims,0.994,False
+SR511297,Repairs,0.998,False
+SR511298,Returns & Replacement,0.991,False
+SR511299,Repairs,0.984,False
+SR511300,Repairs,0.993,False
+SR511301,Returns & Replacement,0.964,False
+SR511302,Billing,0.998,False
+SR511303,Filters & Consumables,0.935,False
+SR511304,Repairs,0.992,False
+SR511305,Repairs,0.986,False
+SR511306,Repairs,0.983,False
+SR511307,Installs & Demo,0.935,False
+SR511308,Billing,0.921,False
+SR511309,Repairs,0.648,False
+SR511310,Product Advice,0.862,False
+SR511311,Warranty Claims,0.967,False
+SR511312,Repairs,0.996,False
+SR511313,Billing,0.952,False
+SR511314,Warranty Claims,0.987,False
+SR511315,Product Advice,0.991,False
+SR511316,Installs & Demo,0.996,False
+SR511317,Returns & Replacement,0.982,False
+SR511318,Billing,0.27,True
+SR511319,Repairs,0.99,False
+SR511320,Repairs,0.996,False
+SR511321,Returns & Replacement,0.991,False
+SR511322,Warranty Claims,0.981,False
+SR511323,Installs & Demo,0.979,False
+SR511324,Installs & Demo,0.989,False
+SR511325,Billing,0.996,False
+SR511326,Product Advice,0.995,False
+SR511327,Product Advice,0.735,False
+SR511328,Repairs,0.991,False
+SR511329,Warranty Claims,0.973,False
+SR511330,Billing,0.698,False
+SR511331,Installs & Demo,0.976,False
+SR511332,Billing,0.998,False
+SR511333,Product Advice,0.968,False
+SR511334,Billing,0.782,False
+SR511335,Repairs,0.373,True
+SR511336,Returns & Replacement,0.993,False
+SR511337,Returns & Replacement,0.901,False
+SR511338,Installs & Demo,0.249,True
+SR511339,Repairs,0.789,False
+SR511340,Returns & Replacement,0.977,False
+SR511341,Returns & Replacement,0.848,False
+SR511342,Repairs,0.956,False
+SR511343,Installs & Demo,0.855,False
+SR511344,Billing,0.986,False
+SR511345,Billing,0.938,False
+SR511346,Product Advice,0.997,False
+SR511347,Installs & Demo,0.971,False
+SR511348,Repairs,0.991,False
+SR511349,Warranty Claims,0.69,False
+SR511350,Product Advice,0.272,True
+SR511351,Returns & Replacement,0.996,False
+SR511352,Repairs,0.998,False
+SR511353,Installs & Demo,0.967,False
+SR511354,Installs & Demo,0.872,False
+SR511355,Warranty Claims,0.979,False
+SR511356,Product Advice,0.887,False
+SR511357,Repairs,0.995,False
+SR511358,Returns & Replacement,0.911,False
+SR511359,Installs & Demo,0.994,False
+SR511360,Filters & Consumables,0.963,False
+SR511361,Installs & Demo,0.988,False
+SR511362,Repairs,0.988,False
+SR511363,Product Advice,0.984,False
+SR511364,Warranty Claims,0.972,False
+SR511365,Product Advice,0.987,False
+SR511366,Warranty Claims,0.985,False
+SR511367,Filters & Consumables,0.983,False
+SR511368,Returns & Replacement,0.962,False
+SR511369,Warranty Claims,0.687,False
+SR511370,Returns & Replacement,0.968,False
+SR511371,Installs & Demo,0.512,True
+SR511372,Warranty Claims,0.991,False
+SR511373,Warranty Claims,0.876,False
+SR511374,Warranty Claims,0.993,False
+SR511375,Installs & Demo,0.973,False
+SR511376,Installs & Demo,0.992,False
+SR511377,Repairs,0.771,False
+SR511378,Installs & Demo,0.978,False
+SR511379,Repairs,0.991,False
+SR511380,Billing,0.342,True
+SR511381,Warranty Claims,0.984,False
+SR511382,Product Advice,0.793,False
+SR511383,Billing,0.993,False
+SR511384,Repairs,0.992,False
+SR511385,Repairs,0.983,False
+SR511386,Installs & Demo,0.723,False
+SR511387,Repairs,0.352,True
+SR511388,Product Advice,0.989,False
+SR511389,Repairs,0.99,False
+SR511390,Billing,0.987,False
+SR511391,Installs & Demo,0.991,False
+SR511392,Product Advice,0.985,False
+SR511393,Installs & Demo,0.923,False
+SR511394,Warranty Claims,0.971,False
+SR511395,Billing,0.973,False
+SR511396,Installs & Demo,0.996,False
+SR511397,Repairs,0.966,False
+SR511398,Filters & Consumables,0.943,False
+SR511399,Product Advice,0.974,False
+SR511400,Returns & Replacement,0.992,False
+SR511401,Repairs,0.99,False
+SR511402,Repairs,0.999,False
+SR511403,Repairs,0.997,False
+SR511404,Warranty Claims,0.964,False
+SR511405,Product Advice,0.964,False
+SR511406,Product Advice,0.994,False
+SR511407,Returns & Replacement,0.946,False
+SR511408,Repairs,0.982,False
+SR511409,Returns & Replacement,0.533,True
+SR511410,Product Advice,0.991,False
+SR511411,Repairs,0.363,True
+SR511412,Billing,0.364,True
+SR511413,Billing,0.972,False
+SR511414,Returns & Replacement,0.992,False
+SR511415,Returns & Replacement,0.987,False
+SR511416,Repairs,0.995,False
+SR511417,Repairs,0.999,False
+SR511418,Repairs,0.968,False
+SR511419,Returns & Replacement,0.864,False
+SR511420,Repairs,0.988,False
+SR511421,Repairs,0.946,False
+SR511422,Repairs,0.989,False
+SR511423,Repairs,0.36,True
+SR511424,Returns & Replacement,0.988,False
+SR511425,Returns & Replacement,0.303,True
+SR511426,Repairs,0.999,False
+SR511427,Installs & Demo,0.974,False
+SR511428,Product Advice,0.978,False
+SR511429,Returns & Replacement,0.383,True
+SR511430,Repairs,0.99,False
+SR511431,Product Advice,0.355,True
+SR511432,Repairs,0.975,False
+SR511433,Repairs,0.957,False
+SR511434,Product Advice,0.471,True
+SR511435,Repairs,0.987,False
+SR511436,Warranty Claims,0.308,True
+SR511437,Installs & Demo,0.919,False
+SR511438,Returns & Replacement,0.939,False
+SR511439,Installs & Demo,0.977,False
+SR511440,Warranty Claims,0.471,True
+SR511441,Filters & Consumables,0.987,False
+SR511442,Product Advice,0.979,False
+SR511443,Warranty Claims,0.997,False
+SR511444,Repairs,0.936,False
+SR511445,Warranty Claims,0.397,True
+SR511446,Repairs,0.497,True
+SR511447,Returns & Replacement,0.991,False
+SR511448,Billing,0.986,False
+SR511449,Repairs,0.993,False
+SR511450,Billing,0.991,False
+SR511451,Repairs,0.564,True
+SR511452,Repairs,0.99,False
+SR511453,Warranty Claims,0.993,False
+SR511454,Product Advice,0.996,False
+SR511455,Installs & Demo,0.976,False
+SR511456,Repairs,0.957,False
+SR511457,Returns & Replacement,0.356,True
+SR511458,Repairs,0.959,False
+SR511459,Product Advice,0.843,False
+SR511460,Billing,0.983,False
+SR511461,Product Advice,0.966,False
+SR511462,Returns & Replacement,0.935,False
+SR511463,Repairs,0.981,False
+SR511464,Repairs,0.981,False
+SR511465,Billing,0.697,False
+SR511466,Product Advice,0.992,False
+SR511467,Repairs,0.988,False
+SR511468,Billing,0.968,False
+SR511469,Warranty Claims,0.974,False
+SR511470,Warranty Claims,0.979,False
+SR511471,Filters & Consumables,0.997,False
+SR511472,Returns & Replacement,0.996,False
+SR511473,Product Advice,0.986,False
+SR511474,Filters & Consumables,0.987,False
+SR511475,Repairs,0.997,False
+SR511476,Repairs,0.794,False
+SR511477,Product Advice,0.364,True
+SR511478,Filters & Consumables,0.998,False
+SR511479,Product Advice,0.885,False
+SR511480,Warranty Claims,0.974,False
+SR511481,Warranty Claims,0.966,False
+SR511482,Installs & Demo,0.414,True
+SR511483,Repairs,0.998,False
+SR511484,Billing,0.994,False
+SR511485,Installs & Demo,0.622,False
+SR511486,Product Advice,0.958,False
+SR511487,Billing,0.993,False
+SR511488,Installs & Demo,0.254,True
+SR511489,Product Advice,0.913,False
+SR511490,Repairs,0.821,False
+SR511491,Repairs,0.9,False
+SR511492,Repairs,0.954,False
+SR511493,Repairs,0.996,False
+SR511494,Product Advice,0.991,False
+SR511495,Installs & Demo,0.989,False
+SR511496,Product Advice,0.438,True
+SR511497,Filters & Consumables,0.477,True
+SR511498,Product Advice,0.986,False
+SR511499,Returns & Replacement,0.903,False
+SR511500,Installs & Demo,0.98,False
+SR511501,Billing,0.922,False
+SR511502,Warranty Claims,0.23,True
+SR511503,Installs & Demo,0.387,True
+SR511504,Repairs,0.928,False
+SR511505,Warranty Claims,0.964,False
+SR511506,Billing,0.969,False
+SR511507,Returns & Replacement,0.714,False
+SR511508,Billing,0.53,True
+SR511509,Product Advice,0.965,False
+SR511510,Returns & Replacement,0.953,False
+SR511511,Installs & Demo,0.992,False
+SR511512,Product Advice,0.83,False
+SR511513,Filters & Consumables,0.964,False
+SR511514,Returns & Replacement,0.366,True
+SR511515,Repairs,0.995,False
+SR511516,Product Advice,0.959,False
+SR511517,Billing,0.965,False
+SR511518,Installs & Demo,0.991,False
+SR511519,Billing,0.997,False
+SR511520,Product Advice,0.234,True
+SR511521,Repairs,0.998,False
+SR511522,Installs & Demo,0.981,False
+SR511523,Repairs,0.978,False
+SR511524,Product Advice,0.364,True
+SR511525,Warranty Claims,0.966,False
+SR511526,Repairs,0.988,False
+SR511527,Repairs,0.373,True
+SR511528,Repairs,0.971,False
+SR511529,Repairs,0.924,False
+SR511530,Product Advice,0.977,False
+SR511531,Product Advice,0.981,False
+SR511532,Repairs,0.989,False
+SR511533,Billing,0.962,False
+SR511534,Product Advice,0.458,True
+SR511535,Repairs,0.99,False
+SR511536,Repairs,0.933,False
+SR511537,Filters & Consumables,0.989,False
+SR511538,Repairs,0.933,False
+SR511539,Repairs,0.998,False
+SR511540,Returns & Replacement,0.973,False
+SR511541,Billing,0.997,False
+SR511542,Repairs,0.564,True
+SR511543,Warranty Claims,0.952,False
+SR511544,Returns & Replacement,0.996,False
+SR511545,Installs & Demo,0.998,False
+SR511546,Installs & Demo,0.978,False
+SR511547,Installs & Demo,0.346,True
+SR511548,Billing,0.919,False
+SR511549,Installs & Demo,0.909,False
+SR511550,Product Advice,0.997,False
+SR511551,Installs & Demo,0.995,False
+SR511552,Product Advice,0.988,False
+SR511553,Warranty Claims,0.99,False
+SR511554,Repairs,0.6,False
+SR511555,Warranty Claims,0.854,False
+SR511556,Repairs,0.848,False
+SR511557,Installs & Demo,0.997,False
+SR511558,Warranty Claims,0.677,False
+SR511559,Repairs,0.964,False
+SR511560,Billing,0.982,False
+SR511561,Filters & Consumables,0.993,False
+SR511562,Returns & Replacement,0.947,False
+SR511563,Billing,0.961,False
+SR511564,Warranty Claims,0.775,False
+SR511565,Billing,0.988,False
+SR511566,Billing,0.935,False
+SR511567,Billing,0.996,False
+SR511568,Returns & Replacement,0.995,False
+SR511569,Warranty Claims,0.735,False
+SR511570,Repairs,0.995,False
+SR511571,Billing,0.973,False
+SR511572,Billing,0.989,False
+SR511573,Filters & Consumables,0.988,False
+SR511574,Billing,0.992,False
+SR511575,Repairs,0.997,False
+SR511576,Installs & Demo,0.98,False
+SR511577,Installs & Demo,0.998,False
+SR511578,Returns & Replacement,0.978,False
+SR511579,Billing,0.994,False
+SR511580,Returns & Replacement,0.389,True
+SR511581,Billing,0.99,False
+SR511582,Warranty Claims,0.988,False
+SR511583,Billing,0.386,True
+SR511584,Returns & Replacement,0.969,False
+SR511585,Returns & Replacement,0.968,False
+SR511586,Filters & Consumables,0.991,False
+SR511587,Repairs,0.339,True
+SR511588,Filters & Consumables,0.945,False
+SR511589,Repairs,0.998,False
+SR511590,Repairs,0.992,False
+SR511591,Repairs,0.397,True
+SR511592,Returns & Replacement,0.943,False
+SR511593,Product Advice,0.994,False
+SR511594,Returns & Replacement,0.549,True
+SR511595,Repairs,0.993,False
+SR511596,Warranty Claims,0.411,True
+SR511597,Warranty Claims,0.438,True
+SR511598,Warranty Claims,0.25,True
+SR511599,Product Advice,0.981,False
+SR511600,Repairs,0.3,True
+SR511601,Returns & Replacement,0.998,False
+SR511602,Repairs,0.992,False
+SR511603,Installs & Demo,0.994,False
+SR511604,Repairs,0.995,False
+SR511605,Product Advice,0.986,False
+SR511606,Repairs,0.997,False
+SR511607,Warranty Claims,0.974,False
+SR511608,Warranty Claims,0.994,False
+SR511609,Filters & Consumables,0.97,False
+SR511610,Product Advice,0.991,False
+SR511611,Billing,0.987,False
+SR511612,Repairs,0.965,False
+SR511613,Filters & Consumables,0.99,False
+SR511614,Repairs,0.961,False
+SR511615,Warranty Claims,0.432,True
+SR511616,Filters & Consumables,0.992,False
+SR511617,Repairs,0.964,False
+SR511618,Repairs,0.999,False
+SR511619,Repairs,0.998,False
+SR511620,Billing,0.954,False
+SR511621,Repairs,0.387,True
+SR511622,Warranty Claims,0.989,False
+SR511623,Warranty Claims,0.989,False
+SR511624,Installs & Demo,0.978,False
+SR511625,Repairs,0.989,False
+SR511626,Repairs,1.0,False
+SR511627,Billing,0.982,False
+SR511628,Warranty Claims,0.974,False
+SR511629,Returns & Replacement,0.972,False
+SR511630,Repairs,0.857,False
+SR511631,Returns & Replacement,0.993,False
+SR511632,Repairs,0.981,False
+SR511633,Product Advice,0.958,False
+SR511634,Warranty Claims,0.894,False
+SR511635,Warranty Claims,0.951,False
+SR511636,Warranty Claims,0.356,True
+SR511637,Billing,0.961,False
+SR511638,Repairs,0.955,False
+SR511639,Billing,0.964,False
+SR511640,Repairs,0.658,False
+SR511641,Installs & Demo,0.978,False
+SR511642,Returns & Replacement,0.993,False
+SR511643,Billing,0.995,False
+SR511644,Repairs,0.338,True
+SR511645,Billing,0.973,False
+SR511646,Warranty Claims,0.985,False
+SR511647,Repairs,0.988,False
+SR511648,Product Advice,0.593,True
+SR511649,Filters & Consumables,0.939,False
+SR511650,Product Advice,0.828,False
+SR511651,Billing,0.708,False
+SR511652,Warranty Claims,0.978,False
+SR511653,Repairs,0.99,False
+SR511654,Billing,0.977,False
+SR511655,Product Advice,0.889,False
+SR511656,Repairs,0.609,False
+SR511657,Product Advice,0.918,False
+SR511658,Billing,0.997,False
+SR511659,Returns & Replacement,0.794,False
+SR511660,Returns & Replacement,0.954,False
+SR511661,Warranty Claims,0.988,False
+SR511662,Repairs,0.341,True
+SR511663,Returns & Replacement,0.313,True
+SR511664,Repairs,0.975,False
+SR511665,Warranty Claims,0.943,False
+SR511666,Installs & Demo,0.988,False
+SR511667,Installs & Demo,0.981,False
+SR511668,Installs & Demo,0.999,False
+SR511669,Filters & Consumables,0.987,False
+SR511670,Filters & Consumables,0.992,False
+SR511671,Billing,0.993,False
+SR511672,Filters & Consumables,0.971,False
+SR511673,Filters & Consumables,0.974,False
+SR511674,Billing,0.992,False
+SR511675,Billing,0.986,False
+SR511676,Repairs,0.989,False
+SR511677,Product Advice,0.547,True
+SR511678,Billing,0.937,False
+SR511679,Repairs,0.23,True
+SR511680,Filters & Consumables,0.973,False
+SR511681,Installs & Demo,0.993,False
+SR511682,Repairs,0.998,False
+SR511683,Installs & Demo,0.966,False
+SR511684,Billing,0.987,False
+SR511685,Warranty Claims,0.968,False
+SR511686,Filters & Consumables,0.993,False
+SR511687,Repairs,0.996,False
+SR511688,Filters & Consumables,0.992,False
+SR511689,Product Advice,0.997,False
+SR511690,Returns & Replacement,0.887,False
+SR511691,Billing,0.264,True
+SR511692,Repairs,0.371,True
+SR511693,Installs & Demo,0.988,False
+SR511694,Product Advice,0.396,True
+SR511695,Repairs,0.996,False
+SR511696,Filters & Consumables,0.996,False
+SR511697,Warranty Claims,0.984,False
+SR511698,Repairs,0.998,False
+SR511699,Billing,0.978,False
+SR511700,Repairs,0.956,False
+SR511701,Billing,0.989,False
+SR511702,Warranty Claims,0.936,False
+SR511703,Installs & Demo,0.981,False
+SR511704,Repairs,0.982,False
+SR511705,Filters & Consumables,0.989,False
+SR511706,Returns & Replacement,0.98,False
+SR511707,Installs & Demo,0.997,False
+SR511708,Installs & Demo,0.938,False
+SR511709,Product Advice,0.928,False
+SR511710,Warranty Claims,0.985,False
+SR511711,Warranty Claims,0.309,True
+SR511712,Repairs,0.999,False
+SR511713,Billing,0.981,False
+SR511714,Product Advice,0.86,False
+SR511715,Installs & Demo,0.986,False
+SR511716,Warranty Claims,0.989,False
+SR511717,Warranty Claims,0.988,False
+SR511718,Product Advice,0.94,False
+SR511719,Billing,0.272,True
+SR511720,Warranty Claims,0.97,False
+SR511721,Product Advice,0.267,True
+SR511722,Installs & Demo,0.993,False
+SR511723,Returns & Replacement,0.873,False
+SR511724,Filters & Consumables,0.996,False
+SR511725,Installs & Demo,0.998,False
+SR511726,Installs & Demo,0.994,False
+SR511727,Repairs,0.999,False
+SR511728,Returns & Replacement,0.986,False
+SR511729,Installs & Demo,0.549,True
+SR511730,Installs & Demo,0.35,True
+SR511731,Returns & Replacement,0.251,True
+SR511732,Repairs,0.995,False
+SR511733,Installs & Demo,0.996,False
+SR511734,Product Advice,0.994,False
+SR511735,Warranty Claims,0.99,False
+SR511736,Product Advice,0.945,False
+SR511737,Product Advice,0.991,False
+SR511738,Warranty Claims,0.992,False
+SR511739,Returns & Replacement,0.972,False
+SR511740,Repairs,0.876,False
+SR511741,Repairs,0.982,False
+SR511742,Repairs,0.997,False
+SR511743,Warranty Claims,0.936,False
+SR511744,Billing,0.975,False
+SR511745,Billing,0.983,False
+SR511746,Repairs,0.991,False
+SR511747,Product Advice,0.985,False
+SR511748,Billing,0.285,True
+SR511749,Warranty Claims,0.609,False
+SR511750,Warranty Claims,0.995,False
+SR511751,Repairs,0.337,True
+SR511752,Repairs,0.998,False
+SR511753,Returns & Replacement,0.927,False
+SR511754,Warranty Claims,0.989,False
+SR511755,Filters & Consumables,0.992,False
+SR511756,Repairs,0.999,False
+SR511757,Billing,0.549,True
+SR511758,Filters & Consumables,0.986,False
+SR511759,Installs & Demo,0.877,False
+SR511760,Repairs,0.811,False
+SR511761,Installs & Demo,0.46,True
+SR511762,Product Advice,0.992,False
+SR511763,Filters & Consumables,0.888,False
+SR511764,Product Advice,0.99,False
+SR511765,Warranty Claims,0.975,False
+SR511766,Billing,0.985,False
+SR511767,Filters & Consumables,0.958,False
+SR511768,Returns & Replacement,0.982,False
+SR511769,Repairs,0.977,False
+SR511770,Repairs,0.979,False
+SR511771,Product Advice,0.989,False
+SR511772,Warranty Claims,0.995,False
+SR511773,Repairs,0.987,False
+SR511774,Billing,0.926,False
+SR511775,Returns & Replacement,0.968,False
+SR511776,Installs & Demo,0.353,True
+SR511777,Returns & Replacement,0.977,False
+SR511778,Filters & Consumables,0.973,False
+SR511779,Repairs,0.996,False
+SR511780,Installs & Demo,0.987,False
+SR511781,Warranty Claims,0.982,False
+SR511782,Repairs,0.996,False
+SR511783,Warranty Claims,0.971,False
+SR511784,Billing,0.998,False
+SR511785,Repairs,0.997,False
+SR511786,Repairs,0.995,False
+SR511787,Warranty Claims,0.998,False
+SR511788,Repairs,0.94,False
+SR511789,Installs & Demo,0.995,False
+SR511790,Filters & Consumables,0.943,False
+SR511791,Installs & Demo,0.907,False
+SR511792,Returns & Replacement,0.366,True
+SR511793,Installs & Demo,0.912,False
+SR511794,Returns & Replacement,0.998,False
+SR511795,Returns & Replacement,0.993,False
+SR511796,Billing,0.987,False
+SR511797,Filters & Consumables,0.988,False
+SR511798,Filters & Consumables,0.974,False
+SR511799,Repairs,0.347,True
+SR511800,Billing,0.978,False
+SR511801,Repairs,0.986,False
+SR511802,Filters & Consumables,0.982,False
+SR511803,Repairs,0.986,False
+SR511804,Billing,0.999,False
+SR511805,Billing,0.468,True
+SR511806,Returns & Replacement,0.997,False
+SR511807,Product Advice,0.965,False
+SR511808,Repairs,0.991,False
+SR511809,Product Advice,0.949,False
+SR511810,Product Advice,0.93,False
+SR511811,Repairs,0.998,False
+SR511812,Billing,0.964,False
+SR511813,Product Advice,0.37,True
+SR511814,Product Advice,0.943,False
+SR511815,Product Advice,0.998,False
+SR511816,Repairs,0.992,False
+SR511817,Warranty Claims,0.595,True
+SR511818,Repairs,0.995,False
+SR511819,Returns & Replacement,0.994,False
+SR511820,Billing,0.3,True
+SR511821,Billing,0.283,True
+SR511822,Warranty Claims,0.961,False
+SR511823,Filters & Consumables,0.986,False
+SR511824,Repairs,0.968,False
+SR511825,Returns & Replacement,0.982,False
+SR511826,Returns & Replacement,0.385,True
+SR511827,Billing,0.285,True
+SR511828,Returns & Replacement,0.985,False
+SR511829,Billing,0.719,False
+SR511830,Returns & Replacement,0.989,False
+SR511831,Billing,0.97,False
+SR511832,Repairs,0.521,True
+SR511833,Billing,0.96,False
+SR511834,Repairs,0.973,False
+SR511835,Filters & Consumables,0.506,True
+SR511836,Repairs,0.628,False
+SR511837,Returns & Replacement,0.994,False
+SR511838,Product Advice,0.994,False
+SR511839,Installs & Demo,0.554,True
+SR511840,Warranty Claims,0.998,False
+SR511841,Repairs,0.998,False
+SR511842,Warranty Claims,0.99,False
+SR511843,Warranty Claims,0.987,False
+SR511844,Filters & Consumables,0.659,False
+SR511845,Installs & Demo,0.506,True
+SR511846,Returns & Replacement,0.959,False
+SR511847,Returns & Replacement,0.99,False
+SR511848,Repairs,0.721,False
+SR511849,Warranty Claims,0.99,False
+SR511850,Billing,0.979,False
+SR511851,Repairs,0.984,False
+SR511852,Billing,0.975,False
+SR511853,Repairs,0.929,False
+SR511854,Warranty Claims,0.98,False
+SR511855,Repairs,0.997,False
+SR511856,Product Advice,0.591,True
+SR511857,Filters & Consumables,0.991,False
+SR511858,Billing,0.977,False
+SR511859,Repairs,0.997,False
+SR511860,Repairs,0.956,False
+SR511861,Repairs,0.263,True
+SR511862,Product Advice,0.414,True
+SR511863,Repairs,0.998,False
+SR511864,Warranty Claims,0.976,False
+SR511865,Filters & Consumables,0.822,False
+SR511866,Returns & Replacement,0.648,False
+SR511867,Product Advice,0.938,False
+SR511868,Returns & Replacement,0.337,True
+SR511869,Warranty Claims,0.988,False
+SR511870,Installs & Demo,0.986,False
+SR511871,Warranty Claims,0.987,False
+SR511872,Product Advice,0.485,True
+SR511873,Product Advice,0.99,False
+SR511874,Billing,0.971,False
+SR511875,Repairs,0.996,False
+SR511876,Product Advice,0.977,False
+SR511877,Product Advice,0.97,False
+SR511878,Repairs,0.998,False
+SR511879,Warranty Claims,0.999,False
+SR511880,Repairs,0.998,False
+SR511881,Returns & Replacement,0.975,False
+SR511882,Returns & Replacement,0.98,False
+SR511883,Product Advice,0.988,False
+SR511884,Product Advice,0.981,False
+SR511885,Returns & Replacement,0.986,False
+SR511886,Installs & Demo,0.965,False
+SR511887,Returns & Replacement,0.333,True
+SR511888,Filters & Consumables,0.952,False
+SR511889,Repairs,0.993,False
+SR511890,Repairs,0.994,False
+SR511891,Repairs,0.997,False
+SR511892,Filters & Consumables,0.467,True
+SR511893,Filters & Consumables,0.983,False
+SR511894,Billing,0.986,False
+SR511895,Returns & Replacement,0.983,False
+SR511896,Warranty Claims,0.987,False
+SR511897,Billing,0.815,False
+SR511898,Billing,0.995,False
+SR511899,Repairs,0.996,False
+SR511900,Warranty Claims,0.939,False
+SR511901,Repairs,0.997,False
+SR511902,Product Advice,0.359,True
+SR511903,Billing,0.995,False
+SR511904,Installs & Demo,0.989,False
+SR511905,Warranty Claims,0.995,False
+SR511906,Billing,0.98,False
+SR511907,Filters & Consumables,0.962,False
+SR511908,Warranty Claims,0.999,False
+SR511909,Filters & Consumables,0.99,False
+SR511910,Repairs,0.992,False
+SR511911,Returns & Replacement,0.992,False
+SR511912,Product Advice,0.311,True
+SR511913,Repairs,0.97,False
+SR511914,Installs & Demo,0.996,False
+SR511915,Filters & Consumables,0.994,False
+SR511916,Billing,0.951,False
+SR511917,Warranty Claims,0.992,False
+SR511918,Repairs,0.972,False
+SR511919,Warranty Claims,0.998,False
+SR511920,Returns & Replacement,0.991,False
+SR511921,Filters & Consumables,0.989,False
+SR511922,Billing,0.996,False
+SR511923,Warranty Claims,0.975,False
+SR511924,Installs & Demo,0.995,False
+SR511925,Installs & Demo,0.945,False
+SR511926,Warranty Claims,0.995,False
+SR511927,Installs & Demo,0.969,False
+SR511928,Repairs,0.999,False
+SR511929,Installs & Demo,0.319,True
+SR511930,Repairs,0.991,False
+SR511931,Returns & Replacement,0.992,False
+SR511932,Product Advice,0.996,False
+SR511933,Filters & Consumables,0.52,True
+SR511934,Warranty Claims,0.965,False
+SR511935,Billing,0.933,False
+SR511936,Returns & Replacement,0.995,False
+SR511937,Repairs,0.703,False
+SR511938,Filters & Consumables,0.923,False
+SR511939,Repairs,0.45,True
+SR511940,Installs & Demo,0.836,False
+SR511941,Product Advice,0.991,False
+SR511942,Installs & Demo,0.991,False
+SR511943,Repairs,0.955,False
+SR511944,Returns & Replacement,0.962,False
+SR511945,Repairs,0.997,False
+SR511946,Billing,0.958,False
+SR511947,Returns & Replacement,0.987,False
+SR511948,Filters & Consumables,0.972,False
+SR511949,Installs & Demo,0.671,False
+SR511950,Product Advice,0.998,False
+SR511951,Repairs,0.979,False
+SR511952,Product Advice,0.409,True
+SR511953,Repairs,0.991,False
+SR511954,Filters & Consumables,0.999,False
+SR511955,Returns & Replacement,0.958,False
+SR511956,Warranty Claims,0.991,False
+SR511957,Product Advice,0.285,True
+SR511958,Product Advice,0.95,False
+SR511959,Warranty Claims,0.996,False
+SR511960,Repairs,0.999,False
+SR511961,Warranty Claims,0.982,False
+SR511962,Repairs,0.673,False
+SR511963,Installs & Demo,0.978,False
+SR511964,Product Advice,0.995,False
+SR511965,Repairs,0.451,True
+SR511966,Returns & Replacement,0.978,False
+SR511967,Repairs,0.979,False
+SR511968,Installs & Demo,0.951,False
+SR511969,Repairs,0.994,False
+SR511970,Repairs,0.831,False
+SR511971,Repairs,0.985,False
+SR511972,Repairs,0.438,True
+SR511973,Returns & Replacement,0.914,False
+SR511974,Warranty Claims,0.993,False
+SR511975,Product Advice,0.992,False
+SR511976,Repairs,0.522,True
+SR511977,Repairs,0.322,True
+SR511978,Billing,0.991,False
+SR511979,Returns & Replacement,0.629,False
+SR511980,Billing,0.667,False
+SR511981,Repairs,0.994,False
+SR511982,Returns & Replacement,0.983,False
+SR511983,Repairs,0.87,False
+SR511984,Product Advice,0.915,False
+SR511985,Installs & Demo,0.995,False
+SR511986,Billing,0.996,False
+SR511987,Filters & Consumables,0.853,False
+SR511988,Warranty Claims,0.244,True
+SR511989,Product Advice,0.99,False
+SR511990,Installs & Demo,0.892,False
+SR511991,Filters & Consumables,0.988,False
+SR511992,Returns & Replacement,0.855,False
+SR511993,Product Advice,0.976,False
+SR511994,Billing,0.343,True
+SR511995,Installs & Demo,0.993,False
+SR511996,Installs & Demo,0.988,False
+SR511997,Installs & Demo,0.993,False
+SR511998,Returns & Replacement,0.96,False
+SR511999,Installs & Demo,0.991,False
+SR512000,Repairs,0.998,False
+SR512001,Product Advice,0.961,False
+SR512002,Returns & Replacement,0.997,False
+SR512003,Warranty Claims,0.402,True
+SR512004,Billing,0.989,False
+SR512005,Warranty Claims,0.995,False
+SR512006,Warranty Claims,0.354,True
+SR512007,Repairs,0.997,False
+SR512008,Repairs,0.691,False
+SR512009,Repairs,0.987,False
+SR512010,Returns & Replacement,0.968,False
+SR512011,Warranty Claims,0.561,True
+SR512012,Repairs,0.471,True
+SR512013,Installs & Demo,0.984,False
+SR512014,Installs & Demo,0.295,True
+SR512015,Repairs,0.979,False
+SR512016,Repairs,0.837,False
+SR512017,Repairs,0.999,False
+SR512018,Repairs,0.957,False
+SR512019,Installs & Demo,0.989,False
+SR512020,Warranty Claims,0.974,False
+SR512021,Product Advice,0.997,False
+SR512022,Returns & Replacement,0.95,False
+SR512023,Product Advice,0.992,False
+SR512024,Product Advice,0.991,False
+SR512025,Returns & Replacement,0.978,False
+SR512026,Warranty Claims,0.307,True
+SR512027,Warranty Claims,0.935,False
+SR512028,Billing,0.933,False
+SR512029,Repairs,0.999,False
+SR512030,Billing,0.354,True
+SR512031,Repairs,0.999,False
+SR512032,Repairs,0.541,True
+SR512033,Repairs,0.92,False
+SR512034,Product Advice,0.937,False
+SR512035,Repairs,0.564,True
+SR512036,Warranty Claims,0.996,False
+SR512037,Product Advice,0.412,True
+SR512038,Repairs,0.997,False
+SR512039,Returns & Replacement,0.887,False
+SR512040,Installs & Demo,0.604,False
+SR512041,Repairs,0.997,False
+SR512042,Product Advice,0.455,True
+SR512043,Repairs,0.993,False
+SR512044,Returns & Replacement,0.312,True
+SR512045,Product Advice,0.981,False
+SR512046,Returns & Replacement,0.991,False
+SR512047,Filters & Consumables,0.972,False
+SR512048,Filters & Consumables,0.979,False
+SR512049,Product Advice,0.941,False
+SR512050,Warranty Claims,0.993,False
+SR512051,Repairs,0.998,False
+SR512052,Repairs,0.998,False
+SR512053,Installs & Demo,0.95,False
+SR512054,Warranty Claims,0.985,False
+SR512055,Installs & Demo,0.969,False
+SR512056,Warranty Claims,0.319,True
+SR512057,Installs & Demo,0.537,True
+SR512058,Repairs,0.984,False
+SR512059,Repairs,0.999,False
+SR512060,Repairs,0.382,True
+SR512061,Warranty Claims,0.495,True
+SR512062,Warranty Claims,0.941,False
+SR512063,Installs & Demo,0.982,False
+SR512064,Repairs,0.99,False
+SR512065,Returns & Replacement,0.995,False
+SR512066,Repairs,0.996,False
+SR512067,Billing,0.962,False
+SR512068,Returns & Replacement,0.985,False
+SR512069,Installs & Demo,0.917,False
+SR512070,Installs & Demo,0.994,False
+SR512071,Product Advice,0.997,False
+SR512072,Product Advice,0.369,True
+SR512073,Billing,0.937,False
+SR512074,Product Advice,0.996,False
+SR512075,Repairs,0.971,False
+SR512076,Repairs,0.993,False
+SR512077,Repairs,0.946,False
+SR512078,Filters & Consumables,0.881,False
+SR512079,Installs & Demo,0.998,False
+SR512080,Installs & Demo,0.998,False
+SR512081,Repairs,0.982,False
+SR512082,Repairs,0.929,False
+SR512083,Repairs,0.985,False
+SR512084,Repairs,0.993,False
+SR512085,Warranty Claims,0.215,True
+SR512086,Product Advice,0.983,False
+SR512087,Product Advice,0.956,False
+SR512088,Repairs,0.999,False
+SR512089,Returns & Replacement,0.995,False
+SR512090,Installs & Demo,0.936,False
+SR512091,Installs & Demo,0.304,True
+SR512092,Repairs,0.432,True
+SR512093,Installs & Demo,0.962,False
+SR512094,Repairs,0.682,False
+SR512095,Returns & Replacement,0.892,False
+SR512096,Installs & Demo,0.975,False
+SR512097,Returns & Replacement,0.464,True
+SR512098,Repairs,0.995,False
+SR512099,Filters & Consumables,0.941,False
+SR512100,Filters & Consumables,0.43,True
+SR512101,Billing,0.998,False
+SR512102,Billing,0.985,False
+SR512103,Repairs,0.974,False
+SR512104,Repairs,0.504,True
+SR512105,Repairs,0.989,False
+SR512106,Installs & Demo,0.879,False
+SR512107,Filters & Consumables,0.996,False
+SR512108,Repairs,0.817,False
+SR512109,Warranty Claims,0.981,False
+SR512110,Billing,0.982,False
+SR512111,Repairs,0.971,False
+SR512112,Warranty Claims,0.982,False
+SR512113,Installs & Demo,0.542,True
+SR512114,Returns & Replacement,0.973,False
+SR512115,Warranty Claims,0.992,False
+SR512116,Filters & Consumables,0.947,False
+SR512117,Filters & Consumables,0.969,False
+SR512118,Repairs,0.99,False
+SR512119,Installs & Demo,0.983,False
+SR512120,Filters & Consumables,0.976,False
+SR512121,Billing,0.992,False
+SR512122,Returns & Replacement,0.995,False
+SR512123,Returns & Replacement,0.296,True
+SR512124,Billing,0.936,False
+SR512125,Product Advice,0.978,False
+SR512126,Installs & Demo,0.994,False
+SR512127,Repairs,0.992,False
+SR512128,Warranty Claims,0.271,True
+SR512129,Warranty Claims,0.983,False
+SR512130,Filters & Consumables,0.898,False
+SR512131,Warranty Claims,0.983,False
+SR512132,Repairs,0.992,False
+SR512133,Warranty Claims,0.962,False
+SR512134,Installs & Demo,0.26,True
+SR512135,Product Advice,0.893,False
+SR512136,Filters & Consumables,0.983,False
+SR512137,Warranty Claims,0.953,False
+SR512138,Repairs,0.94,False
+SR512139,Repairs,0.992,False
+SR512140,Warranty Claims,0.298,True
+SR512141,Billing,0.981,False
+SR512142,Returns & Replacement,0.955,False
+SR512143,Returns & Replacement,0.991,False
+SR512144,Billing,0.9,False
+SR512145,Repairs,0.998,False
+SR512146,Billing,0.983,False
+SR512147,Filters & Consumables,0.982,False
+SR512148,Repairs,0.997,False
+SR512149,Billing,0.965,False
+SR512150,Repairs,0.928,False
+SR512151,Repairs,0.998,False
+SR512152,Returns & Replacement,0.983,False
+SR512153,Returns & Replacement,0.356,True
+SR512154,Product Advice,0.896,False
+SR512155,Billing,0.356,True
+SR512156,Repairs,0.998,False
+SR512157,Filters & Consumables,0.272,True
+SR512158,Installs & Demo,0.982,False
+SR512159,Repairs,0.987,False
+SR512160,Repairs,0.991,False
+SR512161,Repairs,0.998,False
+SR512162,Warranty Claims,0.997,False
+SR512163,Billing,0.963,False
+SR512164,Returns & Replacement,0.937,False
+SR512165,Warranty Claims,0.965,False
+SR512166,Billing,0.965,False
+SR512167,Filters & Consumables,0.998,False
+SR512168,Filters & Consumables,0.604,False
+SR512169,Repairs,0.992,False
+SR512170,Repairs,0.275,True
+SR512171,Returns & Replacement,0.808,False
+SR512172,Product Advice,0.59,True
+SR512173,Repairs,0.971,False
+SR512174,Billing,0.949,False
+SR512175,Returns & Replacement,0.968,False
+SR512176,Product Advice,0.993,False
+SR512177,Product Advice,0.971,False
+SR512178,Billing,0.994,False
+SR512179,Installs & Demo,0.507,True
+SR512180,Installs & Demo,0.987,False
+SR512181,Repairs,0.952,False
+SR512182,Returns & Replacement,0.714,False
+SR512183,Billing,0.979,False
+SR512184,Repairs,0.846,False
+SR512185,Repairs,0.985,False
+SR512186,Warranty Claims,0.901,False
+SR512187,Installs & Demo,0.401,True
+SR512188,Returns & Replacement,0.946,False
+SR512189,Installs & Demo,0.979,False
+SR512190,Installs & Demo,0.908,False
+SR512191,Product Advice,0.788,False
+SR512192,Repairs,0.987,False
+SR512193,Product Advice,0.936,False
+SR512194,Repairs,0.97,False
+SR512195,Repairs,0.998,False
+SR512196,Billing,0.989,False
+SR512197,Repairs,0.314,True
+SR512198,Repairs,0.999,False
+SR512199,Installs & Demo,0.96,False
+SR512200,Warranty Claims,0.989,False
+SR512201,Installs & Demo,0.986,False
+SR512202,Warranty Claims,0.402,True
+SR512203,Repairs,0.99,False
+SR512204,Warranty Claims,0.285,True
+SR512205,Installs & Demo,0.898,False
+SR512206,Returns & Replacement,0.992,False
+SR512207,Installs & Demo,0.993,False
+SR512208,Returns & Replacement,0.989,False
+SR512209,Billing,0.955,False
+SR512210,Returns & Replacement,0.948,False
+SR512211,Installs & Demo,0.941,False
+SR512212,Warranty Claims,0.993,False
+SR512213,Installs & Demo,0.983,False
+SR512214,Installs & Demo,0.981,False
+SR512215,Filters & Consumables,0.251,True
+SR512216,Installs & Demo,0.536,True
+SR512217,Product Advice,0.712,False
+SR512218,Returns & Replacement,0.974,False
+SR512219,Returns & Replacement,0.995,False
+SR512220,Installs & Demo,0.995,False
+SR512221,Returns & Replacement,0.977,False
+SR512222,Billing,0.986,False
+SR512223,Repairs,0.838,False
+SR512224,Installs & Demo,0.959,False
+SR512225,Repairs,0.975,False
+SR512226,Billing,0.994,False
+SR512227,Installs & Demo,0.997,False
+SR512228,Returns & Replacement,0.909,False
+SR512229,Billing,0.992,False
+SR512230,Warranty Claims,0.297,True
+SR512231,Installs & Demo,0.989,False
+SR512232,Product Advice,0.99,False
+SR512233,Filters & Consumables,0.986,False
+SR512234,Filters & Consumables,0.361,True
+SR512235,Installs & Demo,0.981,False
+SR512236,Warranty Claims,0.989,False
+SR512237,Repairs,0.902,False
+SR512238,Returns & Replacement,0.947,False
+SR512239,Installs & Demo,0.989,False
+SR512240,Repairs,0.968,False
+SR512241,Installs & Demo,0.378,True
+SR512242,Repairs,0.698,False
+SR512243,Filters & Consumables,0.96,False
+SR512244,Repairs,0.972,False
+SR512245,Returns & Replacement,0.984,False
+SR512246,Filters & Consumables,0.978,False
+SR512247,Product Advice,0.551,True
+SR512248,Warranty Claims,0.979,False
+SR512249,Installs & Demo,0.996,False
+SR512250,Returns & Replacement,0.988,False
+SR512251,Warranty Claims,0.253,True
+SR512252,Installs & Demo,0.483,True
+SR512253,Installs & Demo,0.991,False
+SR512254,Repairs,0.992,False
+SR512255,Filters & Consumables,0.951,False
+SR512256,Repairs,0.994,False
+SR512257,Filters & Consumables,0.987,False
+SR512258,Billing,0.99,False
+SR512259,Installs & Demo,0.93,False
+SR512260,Billing,0.994,False
+SR512261,Returns & Replacement,0.995,False
+SR512262,Warranty Claims,0.99,False
+SR512263,Repairs,0.995,False
+SR512264,Repairs,0.994,False
+SR512265,Billing,0.773,False
+SR512266,Installs & Demo,0.996,False
+SR512267,Warranty Claims,0.979,False
+SR512268,Returns & Replacement,0.981,False
+SR512269,Returns & Replacement,0.996,False
+SR512270,Returns & Replacement,0.876,False
+SR512271,Installs & Demo,0.981,False
+SR512272,Repairs,0.993,False
+SR512273,Product Advice,0.993,False
+SR512274,Warranty Claims,0.615,False
+SR512275,Product Advice,0.618,False
+SR512276,Installs & Demo,0.931,False
+SR512277,Warranty Claims,0.977,False
+SR512278,Repairs,0.708,False
+SR512279,Repairs,0.929,False
+SR512280,Product Advice,0.984,False
+SR512281,Repairs,0.999,False
+SR512282,Repairs,0.76,False
+SR512283,Product Advice,0.978,False
+SR512284,Returns & Replacement,0.353,True
+SR512285,Repairs,0.999,False
+SR512286,Filters & Consumables,0.965,False
+SR512287,Returns & Replacement,0.975,False
+SR512288,Warranty Claims,0.586,True
+SR512289,Filters & Consumables,0.994,False
+SR512290,Filters & Consumables,0.983,False
+SR512291,Installs & Demo,0.97,False
+SR512292,Warranty Claims,0.99,False
+SR512293,Returns & Replacement,0.957,False
+SR512294,Repairs,0.861,False
+SR512295,Product Advice,0.994,False
+SR512296,Billing,0.973,False
+SR512297,Billing,0.991,False
+SR512298,Installs & Demo,0.874,False
+SR512299,Repairs,0.999,False
+SR512300,Installs & Demo,0.939,False
+SR512301,Product Advice,0.991,False
+SR512302,Product Advice,0.998,False
+SR512303,Product Advice,0.997,False
+SR512304,Repairs,0.38,True
+SR512305,Repairs,0.995,False
+SR512306,Billing,0.977,False
+SR512307,Repairs,0.993,False
+SR512308,Repairs,0.995,False
+SR512309,Repairs,0.995,False
+SR512310,Returns & Replacement,0.978,False
+SR512311,Repairs,0.704,False
+SR512312,Repairs,0.992,False
+SR512313,Product Advice,0.986,False
+SR512314,Warranty Claims,0.436,True
+SR512315,Filters & Consumables,0.501,True
+SR512316,Warranty Claims,0.983,False
+SR512317,Warranty Claims,0.964,False
+SR512318,Returns & Replacement,0.987,False
+SR512319,Billing,0.345,True
+SR512320,Billing,0.341,True
+SR512321,Repairs,0.837,False
+SR512322,Returns & Replacement,0.936,False
+SR512323,Returns & Replacement,0.965,False
+SR512324,Installs & Demo,0.998,False
+SR512325,Product Advice,0.986,False
+SR512326,Returns & Replacement,0.992,False
+SR512327,Product Advice,0.985,False
+SR512328,Warranty Claims,0.958,False
+SR512329,Installs & Demo,0.897,False
+SR512330,Repairs,0.997,False
+SR512331,Billing,0.983,False
+SR512332,Returns & Replacement,0.989,False
+SR512333,Product Advice,0.376,True
+SR512334,Installs & Demo,0.981,False
+SR512335,Returns & Replacement,0.979,False
+SR512336,Returns & Replacement,0.933,False
+SR512337,Installs & Demo,0.989,False
+SR512338,Installs & Demo,0.955,False
+SR512339,Filters & Consumables,0.955,False
+SR512340,Billing,0.983,False
+SR512341,Repairs,0.974,False
+SR512342,Returns & Replacement,0.536,True
+SR512343,Repairs,0.336,True
+SR512344,Repairs,0.766,False
+SR512345,Repairs,0.764,False
+SR512346,Filters & Consumables,0.979,False
+SR512347,Returns & Replacement,0.985,False
+SR512348,Warranty Claims,0.594,True
+SR512349,Returns & Replacement,0.303,True
+SR512350,Installs & Demo,0.944,False
+SR512351,Installs & Demo,0.315,True
+SR512352,Repairs,0.268,True
+SR512353,Returns & Replacement,0.933,False
+SR512354,Repairs,0.994,False
+SR512355,Returns & Replacement,0.873,False
+SR512356,Warranty Claims,0.995,False
+SR512357,Billing,0.978,False
+SR512358,Warranty Claims,0.986,False
+SR512359,Warranty Claims,0.976,False
+SR512360,Installs & Demo,0.982,False
+SR512361,Repairs,0.388,True
+SR512362,Warranty Claims,0.976,False
+SR512363,Returns & Replacement,0.96,False
+SR512364,Returns & Replacement,0.913,False
+SR512365,Repairs,0.899,False
+SR512366,Repairs,0.985,False
+SR512367,Repairs,0.983,False
+SR512368,Repairs,0.615,False
+SR512369,Warranty Claims,0.962,False
+SR512370,Product Advice,0.404,True
+SR512371,Filters & Consumables,0.982,False
+SR512372,Repairs,0.999,False
+SR512373,Filters & Consumables,0.989,False
+SR512374,Repairs,0.984,False
+SR512375,Filters & Consumables,0.964,False
+SR512376,Repairs,0.615,False
+SR512377,Installs & Demo,0.988,False
+SR512378,Installs & Demo,0.978,False
+SR512379,Filters & Consumables,0.916,False
+SR512380,Installs & Demo,0.998,False
+SR512381,Returns & Replacement,0.994,False
+SR512382,Installs & Demo,0.399,True
+SR512383,Product Advice,0.961,False
+SR512384,Repairs,0.999,False
+SR512385,Installs & Demo,0.886,False
+SR512386,Billing,0.997,False
+SR512387,Warranty Claims,1.0,False
+SR512388,Filters & Consumables,0.502,True
+SR512389,Returns & Replacement,0.98,False
+SR512390,Product Advice,0.979,False
+SR512391,Repairs,0.412,True
+SR512392,Warranty Claims,0.944,False
+SR512393,Product Advice,0.999,False
+SR512394,Filters & Consumables,0.979,False
+SR512395,Repairs,0.999,False
+SR512396,Billing,0.981,False
+SR512397,Returns & Replacement,0.958,False
+SR512398,Product Advice,0.419,True
+SR512399,Billing,0.996,False
+SR512400,Returns & Replacement,0.373,True
+SR512401,Warranty Claims,0.997,False
+SR512402,Returns & Replacement,0.939,False
+SR512403,Product Advice,0.987,False
+SR512404,Filters & Consumables,0.699,False
+SR512405,Warranty Claims,0.609,False
+SR512406,Repairs,0.756,False
+SR512407,Billing,0.988,False
+SR512408,Repairs,0.598,True
+SR512409,Repairs,0.988,False
+SR512410,Warranty Claims,0.899,False
+SR512411,Installs & Demo,0.966,False
+SR512412,Returns & Replacement,0.996,False
+SR512413,Repairs,0.977,False
+SR512414,Warranty Claims,0.993,False
+SR512415,Repairs,0.365,True
+SR512416,Repairs,0.995,False
+SR512417,Repairs,0.999,False
+SR512418,Returns & Replacement,0.966,False
+SR512419,Returns & Replacement,0.981,False
+SR512420,Installs & Demo,0.97,False
+SR512421,Filters & Consumables,0.3,True
+SR512422,Repairs,0.957,False
+SR512423,Repairs,0.994,False
+SR512424,Repairs,0.989,False
+SR512425,Product Advice,0.994,False
+SR512426,Repairs,0.997,False
+SR512427,Warranty Claims,0.982,False
+SR512428,Filters & Consumables,0.844,False
+SR512429,Installs & Demo,0.45,True
+SR512430,Installs & Demo,0.995,False
+SR512431,Warranty Claims,0.995,False
+SR512432,Product Advice,0.997,False
+SR512433,Returns & Replacement,0.954,False
+SR512434,Warranty Claims,0.931,False
+SR512435,Warranty Claims,0.981,False
+SR512436,Warranty Claims,0.982,False
+SR512437,Warranty Claims,0.782,False
+SR512438,Warranty Claims,0.363,True
+SR512439,Filters & Consumables,0.868,False
+SR512440,Filters & Consumables,0.985,False
+SR512441,Repairs,0.996,False
+SR512442,Billing,0.994,False
+SR512443,Returns & Replacement,0.984,False
+SR512444,Installs & Demo,0.981,False
+SR512445,Repairs,0.998,False
+SR512446,Filters & Consumables,0.843,False
+SR512447,Billing,0.984,False
+SR512448,Warranty Claims,0.989,False
+SR512449,Returns & Replacement,0.737,False
+SR512450,Repairs,0.998,False
+SR512451,Warranty Claims,0.989,False
+SR512452,Product Advice,0.997,False
+SR512453,Product Advice,0.991,False
+SR512454,Product Advice,0.465,True
+SR512455,Installs & Demo,0.99,False
+SR512456,Warranty Claims,0.947,False
+SR512457,Product Advice,0.949,False
+SR512458,Product Advice,0.545,True
+SR512459,Returns & Replacement,0.98,False
+SR512460,Product Advice,0.969,False
+SR512461,Returns & Replacement,0.974,False
+SR512462,Billing,0.926,False
+SR512463,Repairs,0.478,True
+SR512464,Billing,0.369,True
+SR512465,Warranty Claims,0.979,False
+SR512466,Warranty Claims,0.996,False
+SR512467,Product Advice,0.574,True
+SR512468,Repairs,0.995,False
+SR512469,Product Advice,0.967,False
+SR512470,Returns & Replacement,0.992,False
+SR512471,Warranty Claims,0.597,True
+SR512472,Billing,0.923,False
+SR512473,Warranty Claims,0.992,False
+SR512474,Filters & Consumables,0.962,False
+SR512475,Repairs,0.516,True
+SR512476,Installs & Demo,0.974,False
+SR512477,Billing,0.983,False
+SR512478,Filters & Consumables,0.97,False
+SR512479,Repairs,0.612,False
+SR512480,Installs & Demo,0.948,False
+SR512481,Repairs,0.981,False
+SR512482,Repairs,0.974,False
+SR512483,Product Advice,0.974,False
+SR512484,Returns & Replacement,0.988,False
+SR512485,Installs & Demo,0.707,False
+SR512486,Repairs,0.994,False
+SR512487,Installs & Demo,0.992,False
+SR512488,Returns & Replacement,0.996,False
+SR512489,Product Advice,0.993,False
+SR512490,Product Advice,0.982,False
+SR512491,Warranty Claims,0.94,False
+SR512492,Installs & Demo,0.999,False
+SR512493,Repairs,0.996,False
+SR512494,Returns & Replacement,0.742,False
+SR512495,Installs & Demo,0.879,False
+SR512496,Repairs,0.999,False
+SR512497,Billing,0.988,False
+SR512498,Returns & Replacement,0.964,False
+SR512499,Billing,0.959,False
+SR512500,Warranty Claims,0.583,True
+SR512501,Installs & Demo,0.971,False
+SR512502,Installs & Demo,0.995,False
+SR512503,Repairs,0.622,False
+SR512504,Product Advice,0.992,False
+SR512505,Billing,0.997,False
+SR512506,Repairs,1.0,False
+SR512507,Repairs,0.99,False
+SR512508,Repairs,0.971,False
+SR512509,Repairs,0.995,False
+SR512510,Product Advice,0.28,True
+SR512511,Warranty Claims,0.991,False
+SR512512,Installs & Demo,0.945,False
+SR512513,Repairs,0.997,False
+SR512514,Repairs,0.995,False
+SR512515,Installs & Demo,0.966,False
+SR512516,Repairs,0.986,False
+SR512517,Product Advice,0.965,False
+SR512518,Repairs,0.995,False
+SR512519,Filters & Consumables,0.975,False
+SR512520,Filters & Consumables,0.371,True
+SR512521,Filters & Consumables,0.994,False
+SR512522,Installs & Demo,0.481,True
+SR512523,Filters & Consumables,0.983,False
+SR512524,Installs & Demo,0.928,False
+SR512525,Repairs,0.997,False
+SR512526,Product Advice,0.946,False
+SR512527,Installs & Demo,0.995,False
+SR512528,Product Advice,0.952,False
+SR512529,Returns & Replacement,0.88,False
+SR512530,Repairs,0.336,True
+SR512531,Returns & Replacement,0.984,False
+SR512532,Repairs,0.974,False
+SR512533,Repairs,0.796,False
+SR512534,Filters & Consumables,0.994,False
+SR512535,Filters & Consumables,0.928,False
+SR512536,Repairs,0.981,False
+SR512537,Repairs,0.944,False
+SR512538,Returns & Replacement,0.99,False
+SR512539,Repairs,0.997,False
+SR512540,Filters & Consumables,0.917,False
+SR512541,Installs & Demo,0.959,False
+SR512542,Warranty Claims,0.999,False
+SR512543,Installs & Demo,0.959,False
+SR512544,Repairs,0.573,True
+SR512545,Warranty Claims,0.727,False
+SR512546,Repairs,0.994,False
+SR512547,Installs & Demo,0.933,False
+SR512548,Filters & Consumables,0.328,True
+SR512549,Repairs,0.996,False
+SR512550,Returns & Replacement,0.991,False
+SR512551,Product Advice,0.974,False
+SR512552,Warranty Claims,0.998,False
+SR512553,Installs & Demo,0.342,True
+SR512554,Installs & Demo,0.322,True
+SR512555,Filters & Consumables,0.991,False
+SR512556,Filters & Consumables,0.967,False
+SR512557,Filters & Consumables,0.965,False
+SR512558,Filters & Consumables,0.982,False
+SR512559,Returns & Replacement,0.972,False
+SR512560,Repairs,0.989,False
+SR512561,Product Advice,0.988,False
+SR512562,Returns & Replacement,0.993,False
+SR512563,Returns & Replacement,0.269,True
+SR512564,Warranty Claims,0.989,False
+SR512565,Repairs,0.982,False
+SR512566,Product Advice,0.984,False
+SR512567,Repairs,0.989,False
+SR512568,Returns & Replacement,0.987,False
+SR512569,Returns & Replacement,0.984,False
+SR512570,Returns & Replacement,0.958,False
+SR512571,Returns & Replacement,0.422,True
+SR512572,Repairs,0.488,True
+SR512573,Product Advice,0.583,True
+SR512574,Product Advice,0.258,True
+SR512575,Returns & Replacement,0.304,True
+SR512576,Repairs,0.489,True
+SR512577,Filters & Consumables,0.949,False
+SR512578,Warranty Claims,0.967,False
+SR512579,Warranty Claims,0.979,False
+SR512580,Repairs,0.999,False
+SR512581,Installs & Demo,0.976,False
+SR512582,Repairs,0.989,False
+SR512583,Warranty Claims,0.989,False
+SR512584,Product Advice,0.993,False
+SR512585,Warranty Claims,0.984,False
+SR512586,Returns & Replacement,0.958,False
+SR512587,Repairs,0.38,True
+SR512588,Product Advice,0.958,False
+SR512589,Warranty Claims,0.308,True
+SR512590,Warranty Claims,0.989,False
+SR512591,Product Advice,0.999,False
+SR512592,Installs & Demo,0.995,False
+SR512593,Returns & Replacement,0.97,False
+SR512594,Billing,0.983,False
+SR512595,Billing,0.994,False
+SR512596,Billing,0.99,False
+SR512597,Filters & Consumables,0.319,True
+SR512598,Returns & Replacement,0.977,False
+SR512599,Product Advice,0.913,False
+SR512600,Filters & Consumables,0.998,False
+SR512601,Warranty Claims,0.991,False
+SR512602,Warranty Claims,0.989,False
+SR512603,Product Advice,0.9,False
+SR512604,Returns & Replacement,0.955,False
+SR512605,Installs & Demo,0.357,True
+SR512606,Warranty Claims,0.85,False
+SR512607,Repairs,0.869,False
+SR512608,Installs & Demo,0.715,False
+SR512609,Product Advice,0.99,False
+SR512610,Filters & Consumables,0.97,False
+SR512611,Product Advice,0.972,False
+SR512612,Repairs,0.997,False
+SR512613,Filters & Consumables,0.999,False
+SR512614,Returns & Replacement,0.976,False
+SR512615,Filters & Consumables,0.949,False
+SR512616,Warranty Claims,0.456,True
+SR512617,Product Advice,0.942,False
+SR512618,Warranty Claims,0.953,False
+SR512619,Returns & Replacement,0.993,False
+SR512620,Product Advice,0.985,False
+SR512621,Returns & Replacement,0.972,False
+SR512622,Warranty Claims,0.292,True
+SR512623,Filters & Consumables,0.987,False
+SR512624,Product Advice,0.988,False
+SR512625,Filters & Consumables,0.994,False
+SR512626,Returns & Replacement,0.942,False
+SR512627,Repairs,0.996,False
+SR512628,Repairs,0.949,False
+SR512629,Installs & Demo,0.994,False
+SR512630,Repairs,0.995,False
+SR512631,Repairs,0.987,False
+SR512632,Product Advice,0.944,False
+SR512633,Repairs,0.995,False
+SR512634,Returns & Replacement,0.987,False
+SR512635,Filters & Consumables,0.988,False
+SR512636,Filters & Consumables,0.985,False
+SR512637,Returns & Replacement,0.98,False
+SR512638,Repairs,1.0,False
+SR512639,Filters & Consumables,0.954,False
+SR512640,Installs & Demo,0.992,False
+SR512641,Billing,0.297,True
+SR512642,Repairs,0.998,False
+SR512643,Product Advice,0.99,False
+SR512644,Repairs,0.45,True
+SR512645,Billing,0.993,False
+SR512646,Warranty Claims,0.99,False
+SR512647,Billing,0.99,False
+SR512648,Repairs,0.484,True
+SR512649,Filters & Consumables,0.99,False
+SR512650,Repairs,0.99,False
+SR512651,Repairs,0.91,False
+SR512652,Warranty Claims,0.968,False
+SR512653,Repairs,0.624,False
+SR512654,Warranty Claims,0.811,False
+SR512655,Filters & Consumables,0.965,False
+SR512656,Filters & Consumables,0.932,False
+SR512657,Installs & Demo,0.993,False
+SR512658,Installs & Demo,0.532,True
+SR512659,Installs & Demo,0.911,False
+SR512660,Repairs,0.254,True
+SR512661,Billing,0.993,False
+SR512662,Filters & Consumables,0.975,False
+SR512663,Returns & Replacement,0.994,False
+SR512664,Billing,0.997,False
+SR512665,Repairs,0.989,False
+SR512666,Returns & Replacement,0.846,False
+SR512667,Installs & Demo,0.665,False
+SR512668,Billing,0.961,False
+SR512669,Product Advice,0.977,False
+SR512670,Filters & Consumables,0.88,False
+SR512671,Repairs,0.985,False
+SR512672,Warranty Claims,0.989,False
+SR512673,Warranty Claims,0.581,True
+SR512674,Repairs,1.0,False
+SR512675,Filters & Consumables,0.967,False
+SR512676,Billing,0.364,True
+SR512677,Repairs,0.516,True
+SR512678,Returns & Replacement,0.984,False
+SR512679,Installs & Demo,0.99,False
+SR512680,Billing,0.992,False
+SR512681,Repairs,0.997,False
+SR512682,Installs & Demo,0.989,False
+SR512683,Repairs,0.563,True
+SR512684,Billing,0.955,False
+SR512685,Installs & Demo,0.966,False
+SR512686,Installs & Demo,0.99,False
+SR512687,Product Advice,0.903,False
+SR512688,Filters & Consumables,0.979,False
+SR512689,Product Advice,0.973,False
+SR512690,Filters & Consumables,0.975,False
+SR512691,Returns & Replacement,0.994,False
+SR512692,Product Advice,0.912,False
+SR512693,Product Advice,0.732,False
+SR512694,Warranty Claims,0.986,False
+SR512695,Repairs,0.934,False
+SR512696,Returns & Replacement,0.982,False
+SR512697,Repairs,0.998,False
+SR512698,Installs & Demo,0.973,False
+SR512699,Product Advice,0.989,False
+SR512700,Billing,0.995,False
+SR512701,Repairs,0.987,False
+SR512702,Returns & Replacement,0.97,False
+SR512703,Installs & Demo,0.983,False
+SR512704,Repairs,0.969,False
+SR512705,Returns & Replacement,0.971,False
+SR512706,Returns & Replacement,0.998,False
+SR512707,Billing,0.994,False
+SR512708,Returns & Replacement,0.58,True
+SR512709,Installs & Demo,0.977,False
+SR512710,Returns & Replacement,0.599,True
+SR512711,Billing,0.986,False
+SR512712,Billing,0.919,False
+SR512713,Warranty Claims,0.352,True
+SR512714,Billing,0.662,False
+SR512715,Warranty Claims,0.983,False
+SR512716,Installs & Demo,0.975,False
+SR512717,Installs & Demo,0.995,False
+SR512718,Product Advice,0.984,False
+SR512719,Warranty Claims,0.993,False
+SR512720,Billing,0.987,False
+SR512721,Returns & Replacement,0.976,False
+SR512722,Filters & Consumables,0.985,False
+SR512723,Warranty Claims,0.996,False
+SR512724,Repairs,0.995,False
+SR512725,Repairs,0.996,False
+SR512726,Installs & Demo,0.956,False
+SR512727,Product Advice,0.474,True
+SR512728,Warranty Claims,0.99,False
+SR512729,Installs & Demo,0.957,False
+SR512730,Warranty Claims,0.972,False
+SR512731,Returns & Replacement,0.994,False
+SR512732,Repairs,0.688,False
+SR512733,Repairs,0.705,False
+SR512734,Repairs,0.966,False
+SR512735,Repairs,0.994,False
+SR512736,Installs & Demo,0.978,False
+SR512737,Returns & Replacement,0.99,False
+SR512738,Product Advice,0.992,False
+SR512739,Filters & Consumables,0.935,False
+SR512740,Product Advice,0.982,False
+SR512741,Repairs,0.976,False
+SR512742,Installs & Demo,0.275,True
+SR512743,Filters & Consumables,0.879,False
+SR512744,Repairs,0.993,False
+SR512745,Product Advice,0.963,False
+SR512746,Billing,0.984,False
+SR512747,Warranty Claims,0.97,False
+SR512748,Filters & Consumables,0.99,False
+SR512749,Warranty Claims,0.709,False
+SR512750,Repairs,0.248,True
+SR512751,Product Advice,0.934,False
+SR512752,Product Advice,0.34,True
+SR512753,Product Advice,0.992,False
+SR512754,Repairs,0.812,False
+SR512755,Repairs,0.993,False
+SR512756,Returns & Replacement,0.351,True
+SR512757,Repairs,0.286,True
+SR512758,Repairs,0.995,False
+SR512759,Installs & Demo,0.949,False
+SR512760,Repairs,0.559,True
+SR512761,Repairs,0.975,False
+SR512762,Repairs,0.57,True
+SR512763,Installs & Demo,0.988,False
+SR512764,Filters & Consumables,0.666,False
+SR512765,Warranty Claims,0.969,False
+SR512766,Warranty Claims,0.948,False
+SR512767,Returns & Replacement,0.994,False
+SR512768,Repairs,0.981,False
+SR512769,Repairs,0.998,False
+SR512770,Repairs,0.997,False
+SR512771,Repairs,0.873,False
+SR512772,Repairs,0.979,False
+SR512773,Billing,0.987,False
+SR512774,Returns & Replacement,0.972,False
+SR512775,Product Advice,0.978,False
+SR512776,Repairs,0.305,True
+SR512777,Product Advice,0.986,False
+SR512778,Installs & Demo,0.932,False
+SR512779,Installs & Demo,0.998,False
+SR512780,Returns & Replacement,0.996,False
+SR512781,Product Advice,0.995,False
+SR512782,Installs & Demo,0.986,False
+SR512783,Installs & Demo,0.959,False
+SR512784,Billing,0.974,False
+SR512785,Returns & Replacement,0.991,False
+SR512786,Product Advice,0.268,True
+SR512787,Product Advice,0.248,True
+SR512788,Warranty Claims,0.99,False
+SR512789,Repairs,0.978,False
+SR512790,Repairs,0.993,False
+SR512791,Installs & Demo,0.969,False
+SR512792,Filters & Consumables,0.917,False
+SR512793,Repairs,0.894,False
+SR512794,Repairs,0.341,True
+SR512795,Repairs,0.99,False
+SR512796,Filters & Consumables,0.957,False
+SR512797,Returns & Replacement,0.822,False
+SR512798,Billing,0.922,False
+SR512799,Product Advice,0.988,False
+SR512800,Installs & Demo,0.319,True
+SR512801,Installs & Demo,0.99,False
+SR512802,Repairs,0.993,False
+SR512803,Billing,0.988,False
+SR512804,Warranty Claims,0.993,False
+SR512805,Warranty Claims,0.794,False
+SR512806,Product Advice,0.979,False
+SR512807,Warranty Claims,0.993,False
+SR512808,Repairs,0.408,True
+SR512809,Returns & Replacement,0.986,False
+SR512810,Billing,0.994,False
+SR512811,Repairs,0.993,False
+SR512812,Returns & Replacement,0.983,False
+SR512813,Filters & Consumables,0.967,False
+SR512814,Warranty Claims,0.989,False
+SR512815,Filters & Consumables,0.971,False
+SR512816,Filters & Consumables,0.875,False
+SR512817,Installs & Demo,0.879,False
+SR512818,Installs & Demo,0.374,True
+SR512819,Repairs,0.994,False
+SR512820,Filters & Consumables,0.773,False
+SR512821,Repairs,0.992,False
+SR512822,Warranty Claims,0.983,False
+SR512823,Returns & Replacement,0.99,False
+SR512824,Repairs,0.993,False
+SR512825,Repairs,0.995,False
+SR512826,Warranty Claims,0.952,False
+SR512827,Warranty Claims,0.991,False
+SR512828,Repairs,0.962,False
+SR512829,Repairs,0.56,True
+SR512830,Repairs,0.65,False
+SR512831,Billing,0.993,False
+SR512832,Installs & Demo,0.987,False
+SR512833,Filters & Consumables,0.968,False
+SR512834,Returns & Replacement,0.996,False
+SR512835,Billing,0.959,False
+SR512836,Repairs,0.706,False
+SR512837,Product Advice,0.986,False
+SR512838,Filters & Consumables,0.958,False
+SR512839,Warranty Claims,0.957,False
+SR512840,Warranty Claims,0.979,False
+SR512841,Repairs,0.997,False
+SR512842,Repairs,0.979,False
+SR512843,Warranty Claims,0.983,False
+SR512844,Warranty Claims,0.98,False
+SR512845,Installs & Demo,0.996,False
+SR512846,Repairs,0.916,False
+SR512847,Billing,0.996,False
+SR512848,Billing,0.94,False
+SR512849,Warranty Claims,0.978,False
+SR512850,Returns & Replacement,0.928,False
+SR512851,Installs & Demo,0.981,False
+SR512852,Returns & Replacement,0.869,False
+SR512853,Filters & Consumables,0.998,False
+SR512854,Warranty Claims,0.989,False
+SR512855,Product Advice,0.971,False
+SR512856,Repairs,0.733,False
+SR512857,Product Advice,0.995,False
+SR512858,Product Advice,0.89,False
+SR512859,Repairs,0.896,False
+SR512860,Installs & Demo,0.506,True
+SR512861,Repairs,0.991,False
+SR512862,Repairs,0.998,False
+SR512863,Repairs,0.956,False
+SR512864,Repairs,0.98,False
+SR512865,Product Advice,0.571,True
+SR512866,Billing,0.994,False
+SR512867,Warranty Claims,0.221,True
+SR512868,Product Advice,0.355,True
+SR512869,Repairs,0.997,False
+SR512870,Returns & Replacement,0.992,False
+SR512871,Installs & Demo,0.879,False
+SR512872,Product Advice,0.979,False
+SR512873,Returns & Replacement,0.976,False
+SR512874,Installs & Demo,0.995,False
+SR512875,Installs & Demo,0.989,False
+SR512876,Returns & Replacement,0.448,True
+SR512877,Billing,0.985,False
+SR512878,Returns & Replacement,0.953,False
+SR512879,Billing,0.984,False
+SR512880,Returns & Replacement,0.296,True
+SR512881,Repairs,0.992,False
+SR512882,Product Advice,0.231,True
+SR512883,Repairs,0.434,True
+SR512884,Repairs,0.985,False
+SR512885,Repairs,0.998,False
+SR512886,Warranty Claims,0.979,False
+SR512887,Filters & Consumables,0.994,False
+SR512888,Filters & Consumables,0.997,False
+SR512889,Product Advice,0.889,False
+SR512890,Returns & Replacement,0.969,False
+SR512891,Installs & Demo,0.993,False
+SR512892,Product Advice,0.294,True
+SR512893,Billing,0.996,False
+SR512894,Product Advice,0.276,True
+SR512895,Warranty Claims,0.978,False
+SR512896,Repairs,0.998,False
+SR512897,Filters & Consumables,0.926,False
+SR512898,Warranty Claims,0.968,False
+SR512899,Repairs,0.997,False
+SR512900,Installs & Demo,0.995,False
+SR512901,Returns & Replacement,0.991,False
+SR512902,Billing,0.881,False
+SR512903,Warranty Claims,0.277,True
+SR512904,Installs & Demo,0.974,False
+SR512905,Billing,0.929,False
+SR512906,Product Advice,0.759,False
+SR512907,Installs & Demo,0.208,True
+SR512908,Repairs,0.992,False
+SR512909,Product Advice,0.495,True
+SR512910,Billing,0.975,False
+SR512911,Repairs,0.998,False
+SR512912,Filters & Consumables,0.99,False
+SR512913,Installs & Demo,0.978,False
+SR512914,Billing,0.997,False
+SR512915,Repairs,0.989,False
+SR512916,Billing,0.308,True
+SR512917,Billing,0.991,False
+SR512918,Installs & Demo,0.278,True
+SR512919,Installs & Demo,0.337,True
+SR512920,Billing,0.988,False
+SR512921,Filters & Consumables,0.993,False
+SR512922,Repairs,0.978,False
+SR512923,Product Advice,0.983,False
+SR512924,Installs & Demo,0.963,False
+SR512925,Installs & Demo,0.996,False
+SR512926,Repairs,0.981,False
+SR512927,Product Advice,0.979,False
+SR512928,Returns & Replacement,0.991,False
+SR512929,Repairs,0.997,False
+SR512930,Product Advice,0.989,False
+SR512931,Filters & Consumables,0.778,False
+SR512932,Billing,0.889,False
+SR512933,Returns & Replacement,0.996,False
+SR512934,Returns & Replacement,0.955,False
+SR512935,Product Advice,0.998,False
+SR512936,Product Advice,0.998,False
+SR512937,Billing,0.414,True
+SR512938,Warranty Claims,0.312,True
+SR512939,Warranty Claims,0.941,False
+SR512940,Filters & Consumables,0.94,False
+SR512941,Repairs,0.96,False
+SR512942,Repairs,0.456,True
+SR512943,Product Advice,0.996,False
+SR512944,Installs & Demo,0.991,False
+SR512945,Repairs,0.997,False
+SR512946,Warranty Claims,0.67,False
+SR512947,Product Advice,0.903,False
+SR512948,Repairs,0.992,False
+SR512949,Product Advice,0.64,False
+SR512950,Product Advice,0.974,False
+SR512951,Installs & Demo,0.987,False
+SR512952,Returns & Replacement,0.953,False
+SR512953,Repairs,0.459,True
+SR512954,Billing,0.975,False
+SR512955,Repairs,0.997,False
+SR512956,Product Advice,0.992,False
+SR512957,Installs & Demo,0.277,True
+SR512958,Warranty Claims,0.959,False
+SR512959,Returns & Replacement,0.886,False
+SR512960,Returns & Replacement,0.961,False
+SR512961,Installs & Demo,0.992,False
+SR512962,Billing,0.991,False
+SR512963,Repairs,0.442,True
+SR512964,Repairs,0.997,False
+SR512965,Repairs,0.944,False
+SR512966,Installs & Demo,0.979,False
+SR512967,Installs & Demo,0.988,False
+SR512968,Product Advice,0.955,False
+SR512969,Repairs,0.997,False
+SR512970,Installs & Demo,0.997,False
+SR512971,Product Advice,0.976,False
+SR512972,Repairs,0.839,False
+SR512973,Repairs,0.988,False
+SR512974,Installs & Demo,0.978,False
+SR512975,Installs & Demo,0.993,False
+SR512976,Returns & Replacement,0.897,False
+SR512977,Returns & Replacement,0.983,False
+SR512978,Warranty Claims,0.542,True
+SR512979,Repairs,0.64,False
+SR512980,Repairs,0.985,False
+SR512981,Installs & Demo,0.984,False
+SR512982,Returns & Replacement,0.987,False
+SR512983,Installs & Demo,0.989,False
+SR512984,Installs & Demo,0.34,True
+SR512985,Filters & Consumables,0.997,False
+SR512986,Billing,0.979,False
+SR512987,Billing,0.99,False
+SR512988,Filters & Consumables,0.955,False
+SR512989,Filters & Consumables,0.981,False
+SR512990,Billing,0.98,False
+SR512991,Repairs,0.811,False
+SR512992,Warranty Claims,0.941,False
+SR512993,Warranty Claims,0.995,False
+SR512994,Installs & Demo,0.995,False
+SR512995,Returns & Replacement,0.977,False
+SR512996,Installs & Demo,0.382,True
+SR512997,Billing,0.658,False
+SR512998,Repairs,0.957,False
+SR512999,Returns & Replacement,0.964,False

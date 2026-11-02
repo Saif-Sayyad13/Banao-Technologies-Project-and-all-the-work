@@ -1,0 +1,5 @@
+# Client data must NOT go to a public repo (Kestrel ops policy section 10)
+data/*
+!data/.gitkeep
+__pycache__/
+*.pyc

@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kestrel – request router</title>
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--ink:#1c2430;--mute:#66707e;--line:#dde2e8;--ok:#14733f;--okbg:#e6f4ec;--warn:#9a5b00;--warnbg:#fff3dc;--acc:#2456d6}
+@media (prefers-color-scheme:dark){:root{--bg:#12161c;--card:#1b212a;--ink:#e8ecf1;--mute:#97a1ae;--line:#2c3541;--ok:#6fd49b;--okbg:#14301f;--warn:#f2b45a;--warnbg:#3a2a0c;--acc:#7da2ff}}
+*{box-sizing:border-box}body{margin:0;font:15px/1.5 system-ui,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--ink)}
+main{max-width:720px;margin:0 auto;padding:24px 16px 48px}h1{font-size:20px;margin:0 0 4px}p.sub{color:var(--mute);margin:0 0 18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;margin-bottom:16px}
+label{display:block;font-size:13px;color:var(--mute);margin:10px 0 4px}textarea,select{width:100%;padding:9px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);font:inherit}
+textarea{min-height:84px;resize:vertical}.row{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}@media(max-width:560px){.row{grid-template-columns:1fr}}
+button{font:inherit;border:0;border-radius:8px;padding:10px 16px;background:var(--acc);color:#fff;cursor:pointer;margin-top:14px}button.ghost{background:transparent;color:var(--acc);border:1px solid var(--line);padding:5px 10px;margin:4px 6px 0 0;font-size:13px}
+.res{display:none}.team{font-size:22px;font-weight:650;margin:2px 0}.pill{display:inline-block;padding:3px 10px;border-radius:999px;font-size:13px;font-weight:600}
+.ok{background:var(--okbg);color:var(--ok)}.warn{background:var(--warnbg);color:var(--warn)}ul{margin:8px 0 0 18px;padding:0}.meta{color:var(--mute);font-size:13px;margin-top:10px}.err{color:#c0392b;margin-top:10px}
+</style></head><body><main>
+<h1>Kestrel request router</h1>
+<p class="sub">Paste a customer message. It tells you which team should get it, and why. If the message is too vague to route, it says so instead of guessing.</p>
+<div class="card">
+<label for="t">Customer message</label><textarea id="t" placeholder="e.g. installer did not turn up for my air fryer"></textarea>
+<div class="row">
+<div><label for="c">Channel</label><select id="c"><option>chat</option><option>whatsapp</option><option>ivr</option><option>email</option></select></div>
+<div><label for="w">Warranty</label><select id="w"><option value="in_warranty">in warranty</option><option value="shield">Kestrel Shield</option><option value="out_of_warranty">out of warranty</option></select></div>
+<div><label for="p">Product</label><select id="p"><option>Air Fryer</option><option>Mixer Grinder</option><option>Water Purifier</option><option>Robot Vacuum</option><option>Induction Cooktop</option><option>Ceiling Fan</option><option>Room Heater</option></select></div>
+</div>
+<button id="go">Route it</button>
+<div style="margin-top:12px;color:var(--mute);font-size:13px">Try an example:
+<div id="ex"></div></div>
+<div id="err" class="err"></div></div>
+<div class="card res" id="res">
+<span class="pill" id="pill"></span>
+<div class="team" id="team"></div><div id="act" style="color:var(--mute)"></div>
+<ul id="why"></ul><div class="meta" id="meta"></div></div>
+</main>
+<script>
+const EX=[["installer did not turn up for my air fryer","Air Fryer","in_warranty"],
+["i paid extra for installation of my water purifier, when will the technician come","Water Purifier","shield"],
+["water purifier stopped working after 5 months","Water Purifier","out_of_warranty"],
+["double charge on my invoice, need refund","Mixer Grinder","in_warranty"],
+["please call me about my purifier","Water Purifier","in_warranty"]];
+const $=id=>document.getElementById(id);
+EX.forEach(([t,p,w])=>{const b=document.createElement('button');b.className='ghost';b.textContent=t.length>38?t.slice(0,36)+'…':t;b.onclick=()=>{$('t').value=t;$('p').value=p;$('w').value=w;go()};$('ex').appendChild(b)});
+async function go(){
+  $('err').textContent='';
+  try{
+    const r=await fetch('/route',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({request_text:$('t').value,channel:$('c').value,warranty_status:$('w').value,product_family:$('p').value})});
+    const j=await r.json(); if(!r.ok){$('res').style.display='none';$('err').textContent=j.error||'Something went wrong.';return}
+    $('res').style.display='block';$('pill').textContent=j.needs_triage?'Needs a human':'Auto-route';$('pill').className='pill '+(j.needs_triage?'warn':'ok');
+    $('team').textContent=j.needs_triage?'Triage desk (ask the customer)':j.team;$('act').textContent=j.needs_triage?('Best guess if forced: '+j.team):j.action;
+    $('why').innerHTML='';j.reasons.forEach(x=>{const li=document.createElement('li');li.textContent=x;$('why').appendChild(li)});
+    $('meta').textContent='Confidence '+Math.round(j.confidence*100)+'% · second choice: '+j.second_choice;
+  }catch(e){$('res').style.display='none';$('err').textContent='Cannot reach the routing service. Please route this request by hand.'}
+}
+$('go').onclick=go;
+</script></body></html>

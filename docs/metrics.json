@@ -1,0 +1,255 @@
+{
+ "bot_vs_final_agreement_all_train": 0.7716688227684346,
+ "bot_vs_final_by_quarter": {
+  "2025Q2": 0.7822,
+  "2025Q3": 0.7589,
+  "2025Q4": 0.7754,
+  "2026Q1": 0.7749,
+  "2026Q2": 0.7667
+ },
+ "bot_first_team_equals_label": 1.0,
+ "rolling_folds": [
+  {
+   "test_from": "2025-10-01",
+   "n_train": 4320,
+   "n_test": 2199,
+   "acc": 0.8322,
+   "macro_f1": 0.8277,
+   "bot_acc": 0.7754
+  },
+  {
+   "test_from": "2026-01-01",
+   "n_train": 6519,
+   "n_test": 2168,
+   "acc": 0.845,
+   "macro_f1": 0.841,
+   "bot_acc": 0.7749
+  },
+  {
+   "test_from": "2026-04-01",
+   "n_train": 8687,
+   "n_test": 2135,
+   "acc": 0.8393,
+   "macro_f1": 0.8348,
+   "bot_acc": 0.7667
+  }
+ ],
+ "pooled": {
+  "n": 6502,
+  "acc": 0.8388188249769302,
+  "macro_f1": 0.8344255394502421,
+  "bot_acc": 0.7723777299292526,
+  "acc_ci95": [
+   0.8298811649312207,
+   0.8477564850226397
+  ]
+ },
+ "per_team_f1": {
+  "Billing": 0.842,
+  "Filters & Consumables": 0.81,
+  "Installs & Demo": 0.823,
+  "Product Advice": 0.84,
+  "Repairs": 0.869,
+  "Returns & Replacement": 0.835,
+  "Warranty Claims": 0.821
+ },
+ "confusion": {
+  "Billing": {
+   "Billing": 670,
+   "Filters & Consumables": 15,
+   "Installs & Demo": 20,
+   "Product Advice": 17,
+   "Repairs": 19,
+   "Returns & Replacement": 25,
+   "Warranty Claims": 17
+  },
+  "Filters & Consumables": {
+   "Billing": 16,
+   "Filters & Consumables": 514,
+   "Installs & Demo": 24,
+   "Product Advice": 12,
+   "Repairs": 25,
+   "Returns & Replacement": 18,
+   "Warranty Claims": 17
+  },
+  "Installs & Demo": {
+   "Billing": 25,
+   "Filters & Consumables": 27,
+   "Installs & Demo": 802,
+   "Product Advice": 24,
+   "Repairs": 28,
+   "Returns & Replacement": 34,
+   "Warranty Claims": 36
+  },
+  "Product Advice": {
+   "Billing": 20,
+   "Filters & Consumables": 22,
+   "Installs & Demo": 24,
+   "Product Advice": 695,
+   "Repairs": 27,
+   "Returns & Replacement": 22,
+   "Warranty Claims": 16
+  },
+  "Repairs": {
+   "Billing": 29,
+   "Filters & Consumables": 35,
+   "Installs & Demo": 55,
+   "Product Advice": 45,
+   "Repairs": 1348,
+   "Returns & Replacement": 48,
+   "Warranty Claims": 33
+  },
+  "Returns & Replacement": {
+   "Billing": 30,
+   "Filters & Consumables": 13,
+   "Installs & Demo": 21,
+   "Product Advice": 13,
+   "Repairs": 30,
+   "Returns & Replacement": 772,
+   "Warranty Claims": 30
+  },
+  "Warranty Claims": {
+   "Billing": 18,
+   "Filters & Consumables": 17,
+   "Installs & Demo": 26,
+   "Product Advice": 22,
+   "Repairs": 31,
+   "Returns & Replacement": 22,
+   "Warranty Claims": 653
+  }
+ },
+ "confidence_table": [
+  {
+   "threshold": 0.0,
+   "automated_share": 1.0,
+   "accuracy_on_automated": 0.8388,
+   "bot_accuracy_same_rows": 0.7724
+  },
+  {
+   "threshold": 0.4,
+   "automated_share": 0.926,
+   "accuracy_on_automated": 0.8912,
+   "bot_accuracy_same_rows": 0.8195
+  },
+  {
+   "threshold": 0.5,
+   "automated_share": 0.887,
+   "accuracy_on_automated": 0.9201,
+   "bot_accuracy_same_rows": 0.8431
+  },
+  {
+   "threshold": 0.6,
+   "automated_share": 0.857,
+   "accuracy_on_automated": 0.942,
+   "bot_accuracy_same_rows": 0.8567
+  },
+  {
+   "threshold": 0.7,
+   "automated_share": 0.829,
+   "accuracy_on_automated": 0.9597,
+   "bot_accuracy_same_rows": 0.8676
+  },
+  {
+   "threshold": 0.8,
+   "automated_share": 0.81,
+   "accuracy_on_automated": 0.9679,
+   "bot_accuracy_same_rows": 0.8736
+  }
+ ],
+ "low_confidence_share": 0.11288834204860043,
+ "acc_when_low_conf": 0.20027247956403268,
+ "acc_when_high_conf": 0.9200762829403606,
+ "share_of_all_errors_from_low_conf": 0.5601145038167938,
+ "vague_rows_in_train": 1268,
+ "vague_meta_only_acc": 0.17271293375394323,
+ "vague_chance_acc": 0.14285714285714285,
+ "bot_acc_on_vague_rows": 0.22870662460567823,
+ "experiments": {
+  "A. train on BOT LABELS (what the client asked), score vs where it was actually resolved": {
+   "acc_vs_final": 0.7564,
+   "macro_f1": 0.7677
+  },
+  "B. train on final_team (chosen), TF-IDF words+chars + logistic regression": {
+   "acc_vs_final": 0.8393,
+   "macro_f1": 0.8348
+  },
+  "C. same as B, words only": {
+   "acc_vs_final": 0.8379,
+   "macro_f1": 0.8337
+  },
+  "D. linear SVM": {
+   "acc_vs_final": 0.8431,
+   "macro_f1": 0.8392
+  },
+  "E. Complement Naive Bayes": {
+   "acc_vs_final": 0.8262,
+   "macro_f1": 0.8206
+  },
+  "F. the old bot itself, scored vs where it was actually resolved": {
+   "acc_vs_final": 0.7667,
+   "macro_f1": 0.7795
+  },
+  "A (scored the way Ritu asked: match bot labels)": {
+   "acc_vs_bot_label": 0.9494
+  }
+ },
+ "money": {
+  "requests_per_year": 8677,
+  "bot_misroute_rate": 0.2283,
+  "transfers_per_misroute": 1.44,
+  "cost_per_misroute_rs": 698,
+  "bot_misroute_cost_per_year": 1382957,
+  "model_misroute_rate_all": 0.1612,
+  "model_cost_per_year_route_everything": 976243,
+  "triage_threshold": 0.6,
+  "automated_share": 0.857,
+  "model_misroute_rate_on_automated": 0.058,
+  "model_cost_per_year_with_triage": 300884,
+  "triage_requests_per_year": 1244,
+  "triage_cost_assumption_rs_per_request": 260,
+  "triage_desk_cost_per_year": 323365,
+  "bot_licence_rs": 320000,
+  "bot_total_per_year": 1702957,
+  "option_A_route_everything_total": 976243,
+  "option_A_saving_per_year": 726714,
+  "option_B_triage_total": 624249,
+  "option_B_saving_per_year": 1078708,
+  "triage_break_even_rs_per_request": 543
+ },
+ "team_share_actual_vs_bot": {
+  "Billing": {
+   "actual": 0.122,
+   "bot": 0.153
+  },
+  "Filters & Consumables": {
+   "actual": 0.099,
+   "bot": 0.135
+  },
+  "Installs & Demo": {
+   "actual": 0.147,
+   "bot": 0.109
+  },
+  "Product Advice": {
+   "actual": 0.128,
+   "bot": 0.109
+  },
+  "Repairs": {
+   "actual": 0.234,
+   "bot": 0.289
+  },
+  "Returns & Replacement": {
+   "actual": 0.142,
+   "bot": 0.108
+  },
+  "Warranty Claims": {
+   "actual": 0.127,
+   "bot": 0.096
+  }
+ },
+ "data_quality": {
+  "mojibake_rows": 480,
+  "legacy_zoho_rows": 4320,
+  "dup_text_rows": 663,
+  "n_train": 10822
+ }
+}
